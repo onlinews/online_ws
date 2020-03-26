@@ -1,4 +1,3 @@
 site_name: Introduction to Online Experiments
 theme:
-    name: material 
-#    logo: img/logo.png
+    name: readthedocs
