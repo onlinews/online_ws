@@ -1,5 +1,7 @@
 Introduction to Online Experiments
 ==================================================================================================
+Link To Resource: https://online-ws.readthedocs.io/en/latest/
+
 **Editors**: Melvin Kallmayer | Leila Zacharias | Dejan Draschkow
 
 **Maintainers**: Melvin Kallmayer | Leila Zacharias | Dejan Draschkow
