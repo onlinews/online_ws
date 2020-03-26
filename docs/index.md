@@ -21,3 +21,11 @@ We hope you enjoy this resource and please let us know in case you want to contr
 Before embarking on the chapters in this resource, we recommend a [short introductory paper](https://doi.org/10.31234/osf.io/tr76d) ([Sauter, Draschkow, & Mack, 2020](https://doi.org/10.31234/osf.io/tr76d)). We hope that this will provide a brief overview of basic concepts, as well as outline the different solutions available to researchers.
 
 For ease, we have embedded it into this landing page.
+
+
+
+<object data="https://github.com/mkallmayer/online_ws/blob/master/docs/img/SauterDraschkowMack_PrePrint.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/mkallmayer/online_ws/blob/master/docs/img/SauterDraschkowMack_PrePrint.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/mkallmayer/online_ws/blob/master/docs/img/SauterDraschkowMack_PrePrint.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
