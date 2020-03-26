@@ -6,7 +6,7 @@ Introduction to Online Experiments
 
 **Citation**: Kallmayer, M., Zacharias, L., Nobre, A.C. & Draschkow, D. (2020). *Introduction to Online Experiments*. [https://doi.org/10.17605/OSF.IO/XFWHB](https://doi.org/10.17605/OSF.IO/XFWHB)
 
-===============================================================================
+--------
 
 Welcome to **Introduction to Online Experiments**, prepared by the [Brain & Cognition Lab](http://www.brainandcognition.org/). In this resource we aim at *not only* collating important information about online testing, *but also* providing step-by-step guides for a successful transition to online experimentation.
 
