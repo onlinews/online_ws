@@ -22,20 +22,10 @@ Before embarking on the chapters in this resource, we recommend reading this [sh
 
 For ease, we have embedded it into this landing page.
 
-
-[Intro.pdf](https://github.com/mkallmayer/online_ws/blob/master/docs/img/SauterDraschkowMack_PrePrint.pdf)
-
-<object data="https://github.com/mkallmayer/online_ws/blob/master/docs/img/SauterDraschkowMack_PrePrint.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/mkallmayer/online_ws/blob/master/docs/img/SauterDraschkowMack_PrePrint.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/mkallmayer/online_ws/blob/master/docs/img/SauterDraschkowMack_PrePrint.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
-
 <!DOCTYPE html>
 <html>
     <body>
-        <iframe src="https://docs.google.com/gview?url=https://github.com/mkallmayer/online_ws/blob/master/docs/img/SauterDraschkowMack_PrePrint.pdf&embedded=true"
+        <iframe src="https://docs.google.com/gview?url=https://www.draschkow.com/app/download/2849253/SauterDraschkowMack_PrePrint.pdf&embedded=true"
         style="width: 90%; height: 1000px">
             <p>Your browser does not support iframes.</p>
         </iframe>
