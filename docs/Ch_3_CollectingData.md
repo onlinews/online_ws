@@ -114,37 +114,37 @@ Please refer back to ```Chapter 1, Section 1.4.3.``` if the following steps seem
 
 1.	Make sure you have an account (```Chapter 1, Section 1.4.3.```).
 2.	Create/add a new study on Prolific.  Give the study a meaningful name and description.
-![Link Study to Prolific](../img/LinkToProlific1.png)
+![Link Study to Prolific](../img/LinkToProlific1.PNG)
 
 3. The next step is to [add the Pavlovia URL to Prolific](https://psychopy.org/online/prolificIntegration.html) (including parameters to receive the Study ID, etc.). Make sure to use **your own** link here (not the one shown in the picture)!
-![Link Study to Prolific](../img/LinkToProlific2.png)
+![Link Study to Prolific](../img/LinkToProlific2.PNG)
 
 4. Now, [set the completion URL](https://psychopy.org/online/prolificIntegration.html) provided by Prolific in PsychoPy.
 
-  ![Link Study to Prolific](../img/LinkToProlific3.png)
+  ![Link Study to Prolific](../img/LinkToProlific3.PNG)
 
 5. Don't forget to sync these changes to your experiment ![Sync](../img/Sync.PNG).
 
 6. You can sub-select participants according to various criteria. Here we simply choose everybody who is using a Desktop browser. But it makes sense to explore the different ways of defining the sample you would like (e.g. exclude participants who have completed previous experiments; age groups; language; etc.)
-![Link Study to Prolific](../img/LinkToProlific4.png)
+![Link Study to Prolific](../img/LinkToProlific4.PNG)
 
 7. We will just recruit one participant for this very quick study - spend 1 pound on it.
-![Link Study to Prolific](../img/LinkToProlific5.png)
+![Link Study to Prolific](../img/LinkToProlific5.PNG)
 
 8. Finally, ```Save as draft``` so you can publish it whenever you want.
 
 ## 2.2. Run the study
 1. Go to your ```Unpublished``` studies, select the one you want to publish and hit the ```Publish ``` button.
-![Link Study to Prolific](../img/LinkToProlific6.png)
+![Link Study to Prolific](../img/LinkToProlific6.PNG)
 
 2. Now, you can ```Start ``` recruitment.
-![Link Study to Prolific](../img/LinkToProlific7.png)
+![Link Study to Prolific](../img/LinkToProlific7.PNG)
 
 3. Prolific will keep you up to date about current and past participation.
-![Link Study to Prolific](../img/LinkToProlific8.png)
+![Link Study to Prolific](../img/LinkToProlific8.PNG)
 
 4. Once a participant is done you will have to Review the status: either ```Approve``` or ```Reject```. This decision should likely be based on the participant's performance. If the participant's performance indicates that they have not actually done the task, then it might be justified to ```Reject```. Make sure to set objective criteria which would lead to a rejection and make these transparent to the participants.
-![Link Study to Prolific](../img/LinkToProlific9.png)
+![Link Study to Prolific](./img/LinkToProlific9.PNG)
 
 ## 2.3. Collect data and evaluate results
 We can now collect the new data from the server. You can do this by simply syncing ![Sync](../img/Sync.PNG) your project, which will download all available data files to your local machine (see ```1.4.```).
