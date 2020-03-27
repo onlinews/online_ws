@@ -13,7 +13,7 @@ As anyone who has ever worked with a GUI for experimental generation knows, such
 ## 1.2. Alter your study with Python code
 Let's try out a Code Component. Maybe we want to give response contingent feedback after every word. That is, tell participants if they were correct or not.  
 1. First, we need to add a new ```Routine```, place it within the ```trials``` loop, after the ```trial``` routine and name it ```feedback```.
-![Link Stroop To Prolific](../img/MakeStroopOnline11.PNG)
+![Link Stroop To Prolific](./img/MakeStroopOnline11.PNG)
 2. In this new routine, we add a Code Component from the ```Components``` tab on the right, under ```Custom```.
 3. Now we can code the conditional statement controlling when the message of the feedback will be "Correct" and depicted in green (vs. "Wrong" in red). Critically, the code needs to be placed inside ```BeginRoutine``` in order to be updated every trial.
 
@@ -21,13 +21,13 @@ Let's try out a Code Component. Maybe we want to give response contingent feedba
 
   *Note that PsychoPy is already out-converting your Python code into JavaScript if you have set ```Code Type``` to be ```Auto->JS```. More about this in section* ```1.3.```.
 4. Finally, we have created the variables ```f_msg``` and ```f_color```, but we need to create a text component which actually presents the feedback. Luckily, we have already done something similar when presenting the colored words for the Stroop task.
-![Link Stroop To Prolific](../img/MakeStroopOnline12.PNG)
+![Link Stroop To Prolific](./img/MakeStroopOnline12.PNG)
 
 
-Now, test if your feedback works locally and afterwards sync it to Pavlovia ![Sync](../img/Sync.PNG).
+Now, test if your feedback works locally and afterwards sync it to Pavlovia ![Sync](./img/Sync.PNG).
 
 If the feedback is also working when you run your study online (like [this](https://run.pavlovia.org/dejan.draschkow/onlineworkshopstroop/html/)), then the only thing left is to (1) increase the amount of trials  to 10 per condition
-![Link Stroop To Prolific](../img/MakeStroopOnline13.PNG)
+![Link Stroop To Prolific](./img/MakeStroopOnline13.PNG)
 
 and to make the instructions a bit more informative.
 ```
@@ -58,7 +58,7 @@ Thank you for your time.
   is only used for educational purposes.)
 ```
 
-![Link Stroop To Prolific](../img/MakeStroopOnline14.PNG)
+![Link Stroop To Prolific](./img/MakeStroopOnline14.PNG)
 
 
 Finally, (1) delete all the data files in the ```/data``` folder of your project, (2) sync this final and clean version of your project, (3) complete the online task yourself to see how long it takes and **(4) send the participation link** to one of your friends/colleagues in order to collect one pilot data set.
@@ -98,7 +98,7 @@ If you want to just play around with different JavaScript code snipplets and see
 ## 1.4. Have a look at the data
 Once we are happy with our design and have collected our first pilot data, it is a good idea to evaluate the data and also check if we are storing all necessary variables.
 
-First, we will need to collect the pilot data from the server. You can do this by simply syncing ![Sync](../img/Sync.PNG) your project, which will download all available data files to your local machine. Another way to get to the data is to download it directly from the [GitLab page of a/your project](https://gitlab.pavlovia.org/dejan.draschkow/onlineworkshopstroop/tree/master/data).
+First, we will need to collect the pilot data from the server. You can do this by simply syncing ![Sync](./img/Sync.PNG) your project, which will download all available data files to your local machine. Another way to get to the data is to download it directly from the [GitLab page of a/your project](https://gitlab.pavlovia.org/dejan.draschkow/onlineworkshopstroop/tree/master/data).
 
 To analyze the data, you can use your favorite scripting language. Here, we will use R to interrogate the data files and provide an example.
 
@@ -114,37 +114,37 @@ Please refer back to ```Chapter 1, Section 1.4.3.``` if the following steps seem
 
 1.	Make sure you have an account (```Chapter 1, Section 1.4.3.```).
 2.	Create/add a new study on Prolific.  Give the study a meaningful name and description.
-![Link Study to Prolific](../img/LinkToProlific1.PNG)
+![Link Study to Prolific](./img/LinkToProlific1.PNG)
 
 3. The next step is to [add the Pavlovia URL to Prolific](https://psychopy.org/online/prolificIntegration.html) (including parameters to receive the Study ID, etc.). Make sure to use **your own** link here (not the one shown in the picture)!
-![Link Study to Prolific](../img/LinkToProlific2.PNG)
+![Link Study to Prolific](./img/LinkToProlific2.PNG)
 
 4. Now, [set the completion URL](https://psychopy.org/online/prolificIntegration.html) provided by Prolific in PsychoPy.
 
-  ![Link Study to Prolific](../img/LinkToProlific3.PNG)
+  ![Link Study to Prolific](./img/LinkToProlific3.PNG)
 
-5. Don't forget to sync these changes to your experiment ![Sync](../img/Sync.PNG).
+5. Don't forget to sync these changes to your experiment ![Sync](./img/Sync.PNG).
 
 6. You can sub-select participants according to various criteria. Here we simply choose everybody who is using a Desktop browser. But it makes sense to explore the different ways of defining the sample you would like (e.g. exclude participants who have completed previous experiments; age groups; language; etc.)
-![Link Study to Prolific](../img/LinkToProlific4.PNG)
+![Link Study to Prolific](./img/LinkToProlific4.PNG)
 
 7. We will just recruit one participant for this very quick study - spend 1 pound on it.
-![Link Study to Prolific](../img/LinkToProlific5.PNG)
+![Link Study to Prolific](./img/LinkToProlific5.PNG)
 
 8. Finally, ```Save as draft``` so you can publish it whenever you want.
 
 ## 2.2. Run the study
 1. Go to your ```Unpublished``` studies, select the one you want to publish and hit the ```Publish ``` button.
-![Link Study to Prolific](../img/LinkToProlific6.PNG)
+![Link Study to Prolific](./img/LinkToProlific6.PNG)
 
 2. Now, you can ```Start ``` recruitment.
-![Link Study to Prolific](../img/LinkToProlific7.PNG)
+![Link Study to Prolific](./img/LinkToProlific7.PNG)
 
 3. Prolific will keep you up to date about current and past participation.
-![Link Study to Prolific](../img/LinkToProlific8.PNG)
+![Link Study to Prolific](./img/LinkToProlific8.PNG)
 
 4. Once a participant is done you will have to Review the status: either ```Approve``` or ```Reject```. This decision should likely be based on the participant's performance. If the participant's performance indicates that they have not actually done the task, then it might be justified to ```Reject```. Make sure to set objective criteria which would lead to a rejection and make these transparent to the participants.
 ![Link Study to Prolific](./img/LinkToProlific9.PNG)
 
 ## 2.3. Collect data and evaluate results
-We can now collect the new data from the server. You can do this by simply syncing ![Sync](../img/Sync.PNG) your project, which will download all available data files to your local machine (see ```1.4.```).
+We can now collect the new data from the server. You can do this by simply syncing ![Sync](./img/Sync.PNG) your project, which will download all available data files to your local machine (see ```1.4.```).

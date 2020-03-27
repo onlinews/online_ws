@@ -59,11 +59,11 @@ Advertising and recruiting for a study via [SONA Experimental Psychology](https:
 
 - **1)** After *creating a* | *logging in with* your Researcher account, you can ```Add New Study```.
 
-![Advertise Online Study in SONA](../img/SonaSetUpStudy.PNG)
+![Advertise Online Study in SONA](./img/SonaSetUpStudy.PNG)
 
 - **2)** Critically, you need to add the link to your study in the **Study URL** section. As SONA instructs, you have to append ```participant=%SURVEY_CODE%``` to your link. This will create a SONA specific participant ID, which is critical for compensation, as it allows matching the data file with the participant who completed the task.
 
-![Advertise Online Study in SONA](../img/SonaSetUpStudy2.PNG)
+![Advertise Online Study in SONA](./img/SonaSetUpStudy2.PNG)
 
 - **3)** Ideally, the description of your task in SONA is quite informative - mainly when it comes to money. This prevents a lot of unnecessary back-and-forth email between you and your participants. For example:
 ```
@@ -79,7 +79,7 @@ It can take up to 3 weeks for the payment to be processed.
 ```
 - **4)** Creating timeslots is a bit different for online studies. Instead of a classic "slot", you create a *deadline*. You can select the amount of people you want to be tested and participants sign up for it in the same way they sign up for in-lab studies. Signing up does not equal participating in this scenario. Participants are free to participate in the study UNTIL the deadline, thus it can happen that somebody signs up, but will not complete the study for a week (depending on the deadline).
 
-![Advertise Online Study in SONA](../img/SonaSetUpStudy3.PNG)
+![Advertise Online Study in SONA](./img/SonaSetUpStudy3.PNG)
 
 #### 1.4.2.1 Paying for studies via SONA (only relevant for B&C Lab )
 SONA is a solid place to advertise and recruit, however it scales poorly. There is not too many participants in the system to begin with and paying participants is quite cumbersome. So I can recommend it with manageable sample sizes (<30 participants), but it is a huge time sink for big sample sizes.
@@ -106,11 +106,11 @@ In the following chapters we will advertise our study via Prolific, thus we will
 1.	After creating an account, add a VAT number via the ACCOUNT tab of Prolific. The universal university VAT number is ```GB125506730```. This will make payment claims much easier in the future.
 2.	Next, you need to create/add a new study on Prolific.  Give the study a meaningful name - this is important as you will use it to claim participant money from the financial department of Experimental Psychology or Psychiatry. For the rest you can add placeholder information/links – these you can change later-on at any time. They are irrelevant at this stage.
 
-![Create Online Study in Prolific](../img/ProlificNewStudy1.png)
+![Create Online Study in Prolific](./img/ProlificNewStudy1.png)
 3. Note the two fields marked in yellow. The first one show the study link. You will insert this link into your PsychoPy experiments. It redirects the participants back to Prolific when they are done with the experiment. This is how Prolific know who finished the task and how long it took them.
 4. When you create a new study, you need to enter **(1)** how many participants you want to recruit, and **(2)** the amount you want to reward to each participant as stated in your ethics.
 
-![Create Online Study in Prolific](../img/ProlificNewStudy2.png)
+![Create Online Study in Prolific](./img/ProlificNewStudy2.png)
 4. Save the study **as a draft**.
 
 
@@ -131,11 +131,11 @@ For a more comprehensive description of payments in Prolific, have a look [here]
 
 1.	From the ```Action menu``` of the study )draft), you need to ```Download quote``` and ```Request Invoice```.
 
-![Advertise Online Study in Prolific](../img/ProlificSetUp1.png)
+![Advertise Online Study in Prolific](./img/ProlificSetUp1.png)
 
 2.	You need to set the appropriate billing address when requesting an invoice. The address should be the address of your department (department of the grant): for EP that is ```Experimental Psychology Finance Office, University of Oxford, Anna Watts building, Radcliffe Observatory Quarter, Woodstock Road, Oxford, OX2 6GG```; for Psychiatry: ```Department of Psychiatry Finance Office, University of Oxford, Warneford, Hospital, Oxford, OX3 7JX```.
 
-![Advertise Online Study in Prolific](../img/ProlificSetUp2.png)
+![Advertise Online Study in Prolific](./img/ProlificSetUp2.png)
 
 3.	You can now send the generated **PDF quote** + **Requested Invoice (email or PDF)** + **the grant number/information** that pays for the study to the B&C Lab Manager who will raise a PO for it. Expect the requested amount to be added to your Prolific account in about 2 weeks.
 
@@ -143,7 +143,7 @@ For a more comprehensive description of payments in Prolific, have a look [here]
 
 4.	Once you have collected all participants for a study you should send the Lab Manager a summary of the costs and participants. This is quite easy. Just go to your ```Completed studies``` and download the ```Detailed summary```.
 
-![Advertise Online Study in Prolific](../img/ProlificSetUp3.png)
+![Advertise Online Study in Prolific](./img/ProlificSetUp3.png)
 
 5. *Refunds: In case you did not use all the money on your Prolific account, please make sure to request a refund of that money as described [here](https://researcher-help.prolific.co/hc/en-gb/articles/360009092434-Refunds). Contact the B&C Lab Manager briefly before you do that.*
 
