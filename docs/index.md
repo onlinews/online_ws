@@ -4,13 +4,13 @@ Introduction to Online Experiments
 
 **Maintainers**: Melvin Kallmayer | Leila Zacharias | Dejan Draschkow
 
-**Citation**: Kallmayer, M., Zacharias, L., Nobre, A.C. & Draschkow, D. (2020). *Introduction to Online Experiments*. [https://doi.org/10.17605/OSF.IO/XFWHB](https://doi.org/10.17605/OSF.IO/XFWHB)
+**Citation**: Kallmayer, M., Zacharias, L., Nobre, A.C., & Draschkow, D. (2020). *Introduction to Online Experiments*. [https://doi.org/10.17605/OSF.IO/XFWHB](https://doi.org/10.17605/OSF.IO/XFWHB)
 
 --------
 
-Welcome to **Introduction to Online Experiments**, prepared by the [Brain & Cognition Lab](http://www.brainandcognition.org/). In this resource we aim at *not only* collating important information about online testing, *but also* providing step-by-step guides for a successful transition to online experimentation.
+Welcome to **Introduction to Online Experiments**, prepared by the [Brain & Cognition Lab](http://www.brainandcognition.org/). In this resource, we aim at *not only* collating important information about online testing, *but also* providing step-by-step guides for a successful transition to online experimentation.
 
-Currently, the resource is focused on implementing online studies within the [PsychoPy/Pavlovia](https://psychopy.org/) ecosystem. We aim at gradually covering an increasing amount of alternative options.
+Currently, the resource is focused on implementing online studies within the [PsychoPy](https://psychopy.org/)/[Pavlovia](https://pavlovia.org/docs/home/about) ecosystem. We aim at gradually covering an increasing amount of alternative options.
 
 The content in this resource is of general relevance, but the specific examples are strongly tailored to the University of Oxford, specifically the Departments of Experimental Psychology and Psychiatry. Thus, if you are a member of these Departments, you can essentially follow the steps 1 to 1.
 
