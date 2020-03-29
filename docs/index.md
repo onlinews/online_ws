@@ -20,7 +20,7 @@ This [landing](https://online-ws.readthedocs.io/en/latest/) page, as well as [Ch
 
 When getting started, you will see that all these individual parts are associated with different service providers and software, which can become a bit confusing.
 
-**image will come here**
+![Online Ecosystem](./img/onlineExp_simple.png)
 
 We hope that this figure as well as [the paper bellow](https://online-ws.readthedocs.io/en/latest/#a-short-introductory-read) guide you through the online jungle a bit.
 

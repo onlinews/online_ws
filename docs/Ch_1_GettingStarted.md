@@ -12,6 +12,8 @@ By the end of the workshop, you will likely notice that, to a certain extent, cr
 # 1. Ecosystem: accounts and installation
 The first steps into online experimenting are not necessarily easy or intuitive. In order to navigate this terrain efficiently, we will try to outline the big picture, before we get lost in tangents and details.
 
+![Online Ecosystem](./img/onlineExp_All.png)
+
 ## 1.1. The whole is bigger than the sum of its parts
 Coming from a traditional offline-testing world, we usually have a very segregated view on the summation of processes that ultimately result in data files on our hard drive. We like to think about **(1)** programming an experiment in our favorite software (PsychoPy, PsychToolbox, E-prime, etc.) as quite independent of the **(2)** location/lab in which we will conduct the study, and **(3)** the way we recruit the participants, e.g. fliers, online sign-up systems, etc. This strong separation is inherently preserved in online studies, however more consideration is required if we want these 3 essential steps to maintain a symbiotic relationship. We again need to **program a study** (see ```1.2.```), now however, in a language that is browser-friendly. Then, we will need to **host that study** (see ```1.3.```) somewhere, that is, find a provider which makes the study accessible online to everybody who has a link to it. And that provider/host needs to be compatible with the format of the study we programmed. Finally, we need to **recruit participants** (see ```1.4.```) who will complete the study and this should ideally also happen online (but there are also benefits of using online studies for in-lab experimentation, see ```1.4.4.```). Thus, the conceptual pipeline of creating online experiments is equivalent to offline practices, but requires a bit more thought to achieve compatibility between the different effectors.
 
@@ -57,16 +59,19 @@ After creating your study and finding an appropriate hosting service for it, you
 
 **Make sure all data quality checks are in place before you start mass-testing.**
 
-**A good pipeline in my opinion:**
-- **1.** Pilot a few people that you know by just manually sharing the link: interview, analyze and fix errors.
-- **2.** Pilot 10 people from SONA - because you have a better idea about that specific population and it is equivalent to the population you use for in-lab testing.
-- **3.** After fixing all issues and analyzing the pilot data from these “safer” avenues (1 and 2), you can start testing your study on SONA, Prolific, Mturk or whatever other recruiting platform you have chosen. Probably good to test in batches - e.g. if you want to test 100 participants, test in 3 batches of 33 people - so you can make sure everything is going fine in reasonable intervals and resources don't go to waste.
+**A good pipeline in our opinion:**
+
+* **1.** Pilot a few people that you know by just manually sharing the link: interview, analyze and fix errors.
+
+* **2.** Pilot 10 people from SONA - because you have a better idea about that specific population and it is equivalent to the population you use for in-lab testing.
+
+* **3.** After fixing all issues and analyzing the pilot data from these “safer” avenues (1 and 2), you can start testing your study on SONA, Prolific, Mturk or whatever other recruiting platform you have chosen. Probably good to test in batches - e.g. if you want to test 100 participants, test in 3 batches of 33 people - so you can make sure everything is going fine in reasonable intervals and resources don't go to waste.
 
 ### 1.4.1. Manually share link
  You could essentially start sharing the study-link directly with participants. Albeit very inefficient and error-prone on a mass-scale (as it also requires dealing with monetary compensation manually), this is actually a great way to pilot your online study once it is ready (see **1.** above).
 
-### 1.4.2. SONA
-Advertising and recruiting for a study via [SONA Experimental Psychology](https://opr.sona-systems.com) is extremely similar to the way you do it for in-lab studies.
+### 1.4.2. In-house recruiting system (e.g. SONA)
+Advertising and recruiting for a study via [SONA Experimental Psychology](https://opr.sona-systems.com) or the in-house recruiting system of your university, is extremely similar to the way you do it for in-lab studies. We will give a quick step-by-step example using SONA.
 
 **1)** After *creating a* | *logging in with* your Researcher account, you can ```Add New Study```.
 
@@ -76,7 +81,9 @@ Advertising and recruiting for a study via [SONA Experimental Psychology](https:
 
 ![Advertise Online Study in SONA](./img/SonaSetUpStudy2.PNG)
 
-**3)** Ideally, the description of your task in SONA is quite informative - mainly when it comes to money. This prevents a lot of unnecessary back-and-forth email between you and your participants. For example:
+**3)** Ideally, the description of your task in SONA is quite informative - mainly when it comes to money. This prevents a lot of unnecessary back-and-forth email between you and your participants.
+
+A brief example:
 ```
 Click the Complete Survey Now button after signing up for a time slot.
 It will take you to an experiment which will open in a full-screen window.
@@ -88,45 +95,48 @@ You will be contacted via email (available to us via SONA) about providing us wi
 your payment information a few days after you participated.
 It can take up to 3 weeks for the payment to be processed.
 ```
-**4)** Creating timeslots is a bit different for online studies. Instead of a classic "slot", you create a *deadline*. You can select the amount of people you want to test and participants sign up for it in the same way they sign up for in-lab studies. Signing up does not equal participating in this scenario. Participants are free to participate in the study UNTIL the deadline, thus it can happen that somebody signs up, but will not complete the study for a week (depending on the deadline).
+**4)** Creating timeslots is a bit different for online studies. Instead of a classic "slot", you create a *deadline*. You can select the amount of people you want to test and then participants can sign up for it in the same way they would sign up for in-lab studies. In this case, *signing up* does not equal *participating*. Participants are free to participate in the study UNTIL the deadline, thus it can happen that somebody signs up, but will not complete the study for a week (depending on the deadline).
 
 ![Advertise Online Study in SONA](./img/SonaSetUpStudy3.PNG)
 
-#### 1.4.2.1 Paying for studies via SONA (only relevant for B&C Lab)
+#### 1.4.2.1 Paying for studies via SONA (specific to Oxford)
 SONA is a solid place to advertise and recruit, however it scales poorly. There is not too many participants in the system to begin with and paying participants is quite cumbersome. So we can recommend it with manageable sample sizes (<30 participants), but it is a huge time sink for big sample sizes.
 
-For a more comprehensive description of payments, have a look [here](https://www.dropbox.com/s/3sh1vrj460peo0o/PaymentsForOnlineTesting_Instructions.pdf?dl=0).
+For a more comprehensive description of payments in Oxford, have a look [here](https://teams.microsoft.com/_#/school/files/General?threadId=19%3Ad08f75a950904c1285d6d772373d3698%40thread.tacv2&ctx=channel&context=PaymentForms&rootfolder=%252Fsites%252FClinicalNeurosciences-OHBAOnlineExperiments%252FShared%2520Documents%252FGeneral%252FPaymentForms).
 
 1.	Once you have created your SONA online study and added your study link to it, you can set time slots and number of participants just like with regular studies. You pay participants after they have participated.
-2.	Participants will sign up and complete your study. Try to time your testing slots well so that you can test at least 10 participants in a week. Testing  more than 9 participants allows you to use the bulk testing form of the **Experimental Psychology Department** or the **Department of Psychiatry**. Find the forms and more information [here](https://www.dropbox.com/s/3sh1vrj460peo0o/PaymentsForOnlineTesting_Instructions.pdf?dl=0).
+2.	Participants will sign up and complete your study. Try to time your testing slots well so that you can test at least 10 participants in a week. Testing  more than 9 participants allows you to use the bulk testing form of the **Experimental Psychology Department** or the **Department of Psychiatry**. Find the forms and more information [here](https://teams.microsoft.com/_#/school/files/General?threadId=19%3Ad08f75a950904c1285d6d772373d3698%40thread.tacv2&ctx=channel&context=PaymentForms&rootfolder=%252Fsites%252FClinicalNeurosciences-OHBAOnlineExperiments%252FShared%2520Documents%252FGeneral%252FPaymentForms).
 Try not to let too much time pass until you have collected 10 participants, so that the *first* participant doesn’t have to wait too long for their payment – this creates unnecessary and time-consuming email queries.
-3.	In order to get the participants' payment information, you will need to contact them manually (we know – quite time-consuming and not great for big studies; almost as depressing as the life of one of the authors - a self-defined color-blind synesthete). The easiest way to contact participants is to *Download the SONA Participant List* as a .csv file and copy all the email addresses from it. This option is available via the *Study Menu* of your study.
-4.	The most time efficient method is to let participants fill out a simplified [blank form](https://www.dropbox.com/s/3sh1vrj460peo0o/PaymentsForOnlineTesting_Instructions.pdf?dl=0) themselves and send it back to you. You can then collate all the forms and just copy-paste them into one form. Save the form using the study name followed by the date period it covers. Password protect the final form and send it to the B&C Lab Manager, followed by the password in a separate email.
+3.	In order to get the participants' payment information, you will need to contact them manually (we know – quite time-consuming and not great for big studies; almost as depressing as the life of one of the authors - a self-defined color-blind synesthete). The easiest way to contact participants is to ```Download the SONA Participant List``` as a .csv file and copy all the email addresses from it. This option is available via the ```Study Menu``` of your study.
+4.	The most time efficient method is to let participants fill out a simplified [blank form](https://teams.microsoft.com/_#/school/files/General?threadId=19%3Ad08f75a950904c1285d6d772373d3698%40thread.tacv2&ctx=channel&context=PaymentForms&rootfolder=%252Fsites%252FClinicalNeurosciences-OHBAOnlineExperiments%252FShared%2520Documents%252FGeneral%252FPaymentForms) themselves and send it back to you. You can then collate all the forms and just copy-paste them into one form. Save the form using the study name followed by the date period it covers. Password protect the final form and send it to your Lab Manager, followed by the password in a separate email.
 
-*Note: In the study description (and when you are contacting them), please keep participants well-informed about the duration (usually 3 weeks) and the overall process of the reimbursement. This spares everybody a lot of unnecessary email traffic.*
+*Note: In the study description (and when you are contacting participants), please keep participants well-informed about the duration (usually 3 weeks) and the overall process of the reimbursement. This spares everybody a lot of unnecessary email traffic.*
 
 
-### 1.4.3. Prolific
-In our workshop we will be using Prolific for recruitment. Please register for a [Prolific](https://www.prolific.co/) account. You should use your ```ox.ac.uk``` email address.
+### 1.4.3. Prolific (quite specific to Oxford)
+In the following chapters we will be using Prolific for recruitment. Please register for a [Prolific](https://www.prolific.co/) account. You should use your ```ox.ac.uk``` email address.
 
 The best way to navigate Prolific is to go through the many tutorials and examples it provides. This is also the best way [to create your first study](https://researcher-help.prolific.co/hc/en-gb/articles/360009220953-Creating-a-study-on-Prolific). The good thing is that while you have *no* money on your Prolific account, there is little you can mess up incidentally, e.g. you can't release a study to thousands of participants without money. So really take the time to explore it. For example, the option to specify how many participants are needed, fair payment, and how to set additional screening criteria. You will find all these topics in the [documentation](https://researcher-help.prolific.co/hc/en-gb).
 
 ### 1.4.3.1. Create a Prolific study
 In the following chapters we will advertise our study via Prolific, thus we will go through one example specifically. But in case you have not created any studies in Prolific yet, now is the time to try it out.
 
-1) After creating an account, add a VAT number via the ACCOUNT tab of Prolific. The universal university VAT number is ```GB125506730```. This will make payment claims much easier in the future.  
-2) Next, you need to create/add a new study on Prolific.  Give the study a meaningful name - this is important as you will use it to claim participant money from the financial department of Experimental Psychology or Psychiatry. For the rest you can add placeholder information/links – these you can change later on at any time. They are irrelevant at this stage.
+1) After creating an account, add a VAT number via the ACCOUNT tab of Prolific. The universal Oxford University VAT number is ```GB125506730```. This will make payment claims much easier in the future.  
+2) Next, you need to create/add a new study on Prolific.  Give the study a meaningful name - this is important as you will use it to claim participant money from the financial department of Experimental Psychology or Psychiatry. For the rest you can add placeholder information/links – these you can change at any time in the future. These fields are irrelevant at this stage.
 
 ![Create Online Study in Prolific](./img/ProlificNewStudy1.PNG)
+
 3) Note the two fields marked in yellow. The first one shows the study link. You will insert this link into your PsychoPy experiments. It redirects the participants back to Prolific when they are done with the experiment. This is how Prolific knows who finished the task and how long it took them.
 
-4) When you create a new study, you need to enter **(1)** how many participants you want to recruit, and **(2)** the amount you want to reward to each participant as stated in your ethics.
+4) When you create a new study, you need to enter **(1)** how many participants you want to recruit, and **(2)** the amount you want to reward to each participant as stated in your [ethics](https://online-ws.readthedocs.io/en/latest/Ch_1_GettingStarted/#2-ethics).
 
 ![Create Online Study in Prolific](./img/ProlificNewStudy2.PNG)
+
 5) Save the study **as a draft**.
 
 
-For the purpose of this workshop, please create a study with the following specifications:
+In case you want to follow the following chapters 1 to 1, please create a study with the following specifications. But this is not so critical. The important thing is that you somehow have a bit of money on your prolific account.
+
 ```
 1. Call your study "Bell or dog? DD"  - with your initials after the question mark.
 
@@ -138,8 +148,8 @@ For the purpose of this workshop, please create a study with the following speci
    this should result in a cost of 21 pounds.
 ```
 
-#### 1.4.3.2. Paying for studies via Prolific (only relevant for B&C Lab)
-For a more comprehensive description of payments in Prolific, have a look [here](https://www.dropbox.com/s/3sh1vrj460peo0o/PaymentsForOnlineTesting_Instructions.pdf?dl=0).
+#### 1.4.3.2. Paying for studies via Prolific
+For a more comprehensive description of payments in Prolific, have a look [here](https://teams.microsoft.com/_#/school/files/General?threadId=19%3Ad08f75a950904c1285d6d772373d3698%40thread.tacv2&ctx=channel&context=PaymentForms&rootfolder=%252Fsites%252FClinicalNeurosciences-OHBAOnlineExperiments%252FShared%2520Documents%252FGeneral%252FPaymentForms).
 
 1) From the ```Action menu``` of the study (draft), you need to ```Download quote``` and ```Request Invoice```.
 
@@ -149,7 +159,7 @@ For a more comprehensive description of payments in Prolific, have a look [here]
 
 ![Advertise Online Study in Prolific](./img/ProlificSetUp2.png)
 
-3) You can now send the generated **PDF quote** + **Requested Invoice (email or PDF)** + **the grant number/information** that pays for the study to the B&C Lab Manager who will raise a PO for it. Expect the requested amount to be added to your Prolific account in about 2 weeks.
+3) You can now send the generated **PDF quote** + **Requested Invoice (email or PDF)** + **the grant number/information** that pays for the study to your Lab Manager who will raise a PO for it. Expect the requested amount to be added to your Prolific account in about 2 weeks.
 
 *Note: The quote you generated is study-specific – so one quote = one study. In case you want money for multiple studies, you need to create them in Prolific and follow the steps above in order to get quotes for each one separately. This means that you need to decide on the number of participants you want to test per study before you actually run it.*
 
@@ -157,16 +167,18 @@ For a more comprehensive description of payments in Prolific, have a look [here]
 
 ![Advertise Online Study in Prolific](./img/ProlificSetUp3.png)
 
-5) *Refunds: In case you did not use all the money on your Prolific account, please make sure to request a refund of that money as described [here](https://researcher-help.prolific.co/hc/en-gb/articles/360009092434-Refunds). Contact the B&C Lab Manager briefly before you do that.*
+5) *Refunds: In case you did not use all the money on your Prolific account, please make sure to request a refund of that money as described [here](https://researcher-help.prolific.co/hc/en-gb/articles/360009092434-Refunds). Contact your Lab Manager briefly before you do that.*
 
 
 ### 1.4.4. Benefits of using online studies for in-lab experimentation
-In certain circumstances, coding and hosting your study online can also be a viable option for conducting in-lab experiments. It requires very little prerequisites from the hosting lab computer - a functioning browser and an active internet connection. This can be extremely efficient for testing multiple subjects at once, at so-called "multi-testing" facilities. Further, it allows for flexible testing in unknown environments - e.g. testing in schools or in the lab of a collaborator. Finally, conducting experiments this way has the benefit of a centralized location of data storage, that is the *server* (see 1.3.). So irrespective of the different testing locations, the data always ends up in the same spot and is immediately accessible to the researcher.
+In certain circumstances, coding and hosting your study online can also be a viable option for conducting in-lab experiments. It requires very little prerequisites from the hosting lab computer - a functioning browser and an active internet connection. This can be extremely efficient for testing multiple subjects at once, at so-called "multi-testing" facilities. Further, it allows for flexible testing in unknown environments - e.g. testing in schools or in the lab of a collaborator. Finally, conducting experiments this way has the benefit of a centralized location of data storage, that is the *server* (see ```1.3.```). So irrespective of the different testing locations, the data always ends up in the same spot and is immediately accessible to the researcher.
 
 ## 1.5. Data
-After each participant completes the study, the data is saved on the server of the respective host (see 1.3.). In the case of Pavlovia, simply syncing the experimental folder will download the latest data files. This can also be done manually on the GitLab page of the study (e.g. the ```data``` folder [here](https://gitlab.pavlovia.org/demos/stroop/tree/master)), but more about this will be covered in the subsequent chapters.
+After each participant completes the study, the data is saved on the server of the respective host (see ```1.3.```). In the case of Pavlovia, simply syncing ![Button](./img/Sync.PNG) the experimental folder will download the latest data files on your local machine. This can also be done manually on the GitLab page of the study (e.g. the ```data``` folder [here](https://gitlab.pavlovia.org/demos/stroop/tree/master)), but more about this will be covered in the subsequent chapters.
 
 Importantly, make sure that the servers hosting the data are [GDPR compliant](https://pavlovia.org/docs/home/ethics).
 
 # 2. Ethics
 Even though we cover ethical approval last here, it is usually the first thing you need to get when you want to start experimenting.
+
+We have collated [examples of successful applications for ethical approval](https://teams.microsoft.com/_#/school/files/General?threadId=19%3Ad08f75a950904c1285d6d772373d3698%40thread.tacv2&ctx=channel&context=OnlineEthics&rootfolder=%252Fsites%252FClinicalNeurosciences-OHBAOnlineExperiments%252FShared%2520Documents%252FGeneral%252FOnlineEthics).
