@@ -18,43 +18,44 @@ We have an experimental folder called ```OwnStroop``` which contains all the rel
 2. Now select ```Sync with web project``` ![Button](./img/Sync.PNG) and choose that you want to *create a new project*.
 
 3. Give it a name, e.g. ```TestingStroopOnline``` and select yourself as the owner of the project. At this time you probably should **not** select the project to be publicly accessible. Note, that "public", really means "public" - so everybody could also access the data that you are collecting.
-![Button](./img/MakeStroopOnline3.PNG)
+![Make Stroop Online](./img/MakeStroopOnline3.PNG)
 
 4. The next thing PsychoPy will ask you is to **commit** your changes. If you are familiar with [Git](https://www.atlassian.com/git/tutorials/what-is-git) or Git-hosting services such as Github or Gitlab, you will know what is going on here. We will expand on this more in section ```2.```, but essentially from now on every time you make a change to your project, you will need to commit this change - marking it as such, which helps you track changes made to your code and also allows to recover previous versions of the code.
-![Button](./img/MakeStroopOnline4.PNG)
+![Make Stroop Online](./img/MakeStroopOnline4.PNG)
 
 Hopefully, everything has worked out and you saw a ```Success!``` message in one of the console outputs.
-![Button](./img/MakeStroopOnline5.PNG)
+
+![Make Stroop Online](./img/MakeStroopOnline5.PNG)
 
 ## 1.2. Activate your study
-Now that you have successfully created a project on Pavlovia, it is time to have a look at it. For this, you can have a look at the ```Experiments``` section of your [dashboard](https://pavlovia.org/dashboard).
+Now that you have successfully created a project on Pavlovia, it is time to have a look at it. For this, you can navigate to the ```Experiments``` section of your [dashboard](https://pavlovia.org/dashboard).
 
 When you select the experiment you have just created, you will stumble upon the landing page of this study. We will spend some time unpacking it.
-![Button](./img/MakeStroopOnline6.PNG)
+![Make Stroop Online](./img/MakeStroopOnline6.PNG)
 
 1. **Status**: the titles and descriptions of the different Status options are quite self-explanatory. Importantly, in cases in which you don't have a license, the RUNNING status will not be available. The rest of the functionality will be completely accessible to you. So you can still build and test your experiments, just can't collect data. As we have a license, we can **select RUNNING as our status**.
-2. **Running Mode**: hopefully this should say that you are covered by a license. If not, please let me know, as I am managing the licenses.
+2. **Running Mode**: hopefully this should say that you are covered by a license. (If not, please let us know, as we are managing the University of Oxford licenses.)
 3. **Sessions**: here you get a small summary of the participation stats. You can also download the results.
-4. Finally, and maybe most importantly, you can have a look at the actual file structure Pavlovia is using to run your study. For this, you can click on ```View code```, but we will cover this in section ```2.```.  
+4. Finally, and maybe most importantly, you can have a look at the actual file structure Pavlovia is using to run your study. For this, you can click on ```View code``` and we will cover this in section ```2.```.  
 
-Maybe now is a good time to actually run the study in your browser. Select the ```Pilot``` button which is next to ```View code```. Complete your own study in the browser, so we can have a look at the data file in the next section. **In case the experiment does not initialize, copy-paste the link from the browser toolbar into Chrome and try again.**
+Maybe now is a good time to actually run the study in your browser. Select the ```Pilot``` button which is next to ```View code```. Complete your own study in the browser, so we can have a look at the data file in the next section. **In case the experiment does not initialize, copy-paste the link from your current browser toolbar into a different browser (e.g. Chrome) and try again.**
 
-## 1.3. Not everything goes online
+## 1.3. Not *everything goes* online
 PsychoPy is extremely feature-rich! Not all of these features are currently [supported for online testing](https://psychopy.org/online/status.html#onlinestatus). Make sure to frequently check if new features are added to the list.
-
 
 # 2. Editing and syncing your experiment
 Once the experiment is online, you might want to track the data coming in from participation, or adjust the experiment after receiving feedback. For this, we will need to understand the relationship between the study which lives on the server and the one that lives on your hard drive.
 
 ## 2.1. Synchronize online with offline
-Compare the files in your local folder and ones that you see on your GitLab project (click on ```View code```). Notice that the folder and file structures are identical. Except for one critical difference - in the ```data``` folder. Because you completed the study one time after hitting the ```Pilot``` button, the data file from this run has been saved to the  ```data``` folder on the server. Naturally, these files are not available to you locally. In order to synchronize between the local and the server version of your files, you can (and should) routinely click the ```Sync with web project``` ![Button](./img/Sync.PNG) button.
+Compare the files in your local folder and the ones that you see on your GitLab project (click on ```View code```). Notice that the folder and file structures are identical. Except for one critical difference - which is in the ```data``` folder. Because you completed the study one time after hitting the ```Pilot``` button, the data file from this run has been saved to the  ```data``` folder on the server. Naturally, these files are not available to you locally yet. In order to synchronize between the local and the server version of your files, you can (and should) routinely click the ```Sync with web project``` ![Button](./img/Sync.PNG) button.
 
-After syncing, the data files will be available in your local directory.
+After syncing, the data files will be available in your local directory. Investigate the files, while we feed the [B&C lab](http://www.brainandcognition.org/) pet Gabi The Gecko.
 
 ## 2.2. Synchronize offline with online
-The same holds true if we wish to synchronize changes made to the local files with the server version.
+If we want to synchronize changes made to local files with the server, we proceed in the analogical fashion.
 
-One thing that bothers me currently, is the font size of the instruction. Far too big. So let's change that in our local experiment to ```0.05```.
+For example, one thing that bothers us currently is the font size of the instruction. Far too big. So let's change that in our local experiment to ```0.05```.
+
 ![Button](./img/MakeStroopOnline7.PNG)
 
 If we now ```Sync with web project``` ![Button](./img/Sync.PNG), we will have to stage a commit again.
@@ -64,14 +65,14 @@ You can see that your repository on the server was updated recently, and you can
 ![Button](./img/MakeStroopOnline9.PNG)
 
 # 3. Download a study from Pavlovia
-Pavlovia has the nice feature of enabling the [sharing of experiments](https://pavlovia.org/explore) - with some more information [here](https://psychopy.org/online/usingPavlovia.html). On one hand it can help people to stop reinventing the wheel and on the other hand it can reward people who are sharing their experiments. Each of the studies [listed](https://pavlovia.org/explore) can be trialed online. You can also see the code and the repository of these public studies.
+Pavlovia has the nice feature of enabling the [sharing of experiments](https://pavlovia.org/explore) - with some more information [here](https://psychopy.org/online/usingPavlovia.html). On one hand it can help people to stop reinventing the wheel and on the other hand it can reward people who are sharing their experiments (so please click on the ```Star``` of repositories you like and use). Each of the studies [listed](https://pavlovia.org/explore) can be tested online. You can also see the code and the repository of these public studies.
 
 You can manually download the files from a study you are interested in from the respective GitLab page.
 ![Button](./img/MakeStroopOnline10.PNG)
 
 But you can also search for available studies from within PsychoPy ![Button](./img/BrowseStudies.PNG).
 
-Please type ```OnlineWorkshopStroop``` into the search bar and hit ```Search```.
+Please type ```OnlineWorkshopStroop``` into the search bar and hit ```Search```. Find the Stroop task created by Dejan Draschkow.
 
 1. Click ```Browse``` to select a local root directory, i.e. the directory where the project you are downloading will live.
 2. Navigate to an appropriate folder, create a new folder called "NewStroop" and select it.
