@@ -37,7 +37,7 @@ Pavlovia is nothing short of incredible, even more so when considering that is c
 - You can [share and download experiments](https://pavlovia.org/explore)
 - Experimental generation is managed by a GitLab version control environment
 - It interacts well with participant recruitment systems (e.g. SONA or Prolific)
-- It can host experiments created in PsychoPy, jsPsych, or lab.js.
+- It can host experiments created in PsychoPy, jsPsych, or lab.js
 
 ### 1.3.1. Create a Pavlovia account
 Please register for a [Pavlovia](https://pavlovia.org/) account. You should use your ```ox.ac.uk``` email address in order to get access to the *unlimited license*.
@@ -49,8 +49,8 @@ After creating your PsychoPy study and hosting it on Pavlovia, you get a link (U
 
 **A good pipeline in my opinion:**
 - **1)** Pilot a few people that you know by just manually sharing the link: interview, analyze and fix errors
-- **2)** Pilot 10 people from SONA - because you have a better idea about that specific population and it is equivalent to the population you use for in-lab testing
-- **3)** After fixing all issues and analyzing the pilot data from these “safer” avenues (1 and 2), you can start testing your study on SONA, Prolific, Mturk or whatever other recruiting platform you have chosen. Probably good to test in batches - e.g. if you want to test 100 participants, test in 3 batches of 33 people - so you can make sure everything is going fine in reasonable intervals and resources don't go to waste.
+-   **2)** Pilot 10 people from SONA - because you have a better idea about that specific population and it is equivalent to the population you use for in-lab testing
+-     **3)** After fixing all issues and analyzing the pilot data from these “safer” avenues (1 and 2), you can start testing your study on SONA, Prolific, Mturk or whatever other recruiting platform you have chosen. Probably good to test in batches - e.g. if you want to test 100 participants, test in 3 batches of 33 people - so you can make sure everything is going fine in reasonable intervals and resources don't go to waste.
 
 ### 1.4.1. Manually share link
  You could essentially start sharing the study-link directly with participants. Albeit very inefficient and error prone on a mass-scale (as it also requires dealing with monetary compensation manually), this is actually a great way to pilot your online study once it is ready (see **1)** above).
