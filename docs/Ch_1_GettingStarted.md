@@ -157,3 +157,6 @@ In certain circumstances, coding and hosting your study online can also be a via
 After each participant completes the study, the data is saved on the server of the respective host (see 1.3.). In the case of Pavlovia, simply syncing the experimental folder will download the latest data files. This can also be done manually on the GitLab page of the study (e.g. the ```data``` folder [here](https://gitlab.pavlovia.org/demos/stroop/tree/master)), but more about this will be covered in the subsequent chapters.
 
 Importantly, make sure that the servers hosting the data are [GDPR compliant](https://pavlovia.org/docs/home/ethics).
+
+# 2. Ethics
+Even though we cover ethical approval last here, it is usually the first thing you need to get when you want to start experimenting. 
