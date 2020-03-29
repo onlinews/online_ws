@@ -7,9 +7,11 @@ Concerning *data quality*, online participants will likely be very unfamiliar wi
 
 Keeping all these limitations in mind, carefully crafted and well-tested online studies have a huge potential. Many of the noise factors can be combated with a large sample size and a strong set of a priori assumptions.
 
-By the end of the workshop, you will likely notice that, to a certain extent, creating successful online experiments is a bit similar to product (e.g. App) development - one needs to think of a coherent production framework and constantly worry about what the users are doing with the product and if they are understanding it - without a lot of opportunities for direct feedback.
+By the end of the chapters in this resource, you will likely notice that, to a certain extent, creating successful online experiments is a bit similar to product (e.g. App) development - one needs to think of a coherent production framework and constantly worry about what the users are doing with the product and if they are understanding it - without a lot of opportunities for direct feedback.
 
-# 1. Ecosystem: accounts and installation
+**From all chapters, Chapter 1 has many examples which are very specific to the University of Oxford. This is because it covers issues like payments and ethics. The subsequent chapters are extremely general, focus more on the actual implementation of experiments and should be helpful to anyone interested in transitioning to online experimentation.**
+
+# 1. The ecosystem of online studies
 The first steps into online experimenting are not necessarily easy or intuitive. In order to navigate this terrain efficiently, we will try to outline the big picture, before we get lost in tangents and details.
 
 ![Online Ecosystem](./img/onlineExp_All.png)
@@ -181,4 +183,4 @@ Importantly, make sure that the servers hosting the data are [GDPR compliant](ht
 # 2. Ethics
 Even though we cover ethical approval last here, it is usually the first thing you need to get when you want to start experimenting.
 
-We have collated [examples of successful applications for ethical approval](https://teams.microsoft.com/_#/school/files/General?threadId=19%3Ad08f75a950904c1285d6d772373d3698%40thread.tacv2&ctx=channel&context=OnlineEthics&rootfolder=%252Fsites%252FClinicalNeurosciences-OHBAOnlineExperiments%252FShared%2520Documents%252FGeneral%252FOnlineEthics).
+We have collated several [examples of successful applications for ethical approval](https://teams.microsoft.com/_#/school/files/General?threadId=19%3Ad08f75a950904c1285d6d772373d3698%40thread.tacv2&ctx=channel&context=OnlineEthics&rootfolder=%252Fsites%252FClinicalNeurosciences-OHBAOnlineExperiments%252FShared%2520Documents%252FGeneral%252FOnlineEthics), which are specific  to the University of Oxford.
