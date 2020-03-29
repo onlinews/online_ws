@@ -5,8 +5,6 @@ Welcome to **Introduction to Online Experiments**, prepared by the [Brain & Cogn
 
 The content in this resource is of general relevance, but the specific examples are strongly tailored to the University of Oxford, specifically the Departments of Experimental Psychology and Psychiatry. Thus, if you are a member of these Departments, you can  follow the steps essentially 1 to 1. If you are a visitor from a different department, university or country, you will sometimes need to find solutions which are a bit more specific to your current environment. However, these cases are quite rare and usually pertain to some form of administrative task. Thus, the majority of the content here should be of relevance to anybody interested in embarking on the road to online experimentation.
 
-We hope you enjoy this resource.
-
 # What do I need to know before getting started?
 This [landing](https://online-ws.readthedocs.io/en/latest/) page, as well as [Chapter 1](https://online-ws.readthedocs.io/en/latest/Ch_1_GettingStarted/) cover most of the basics necessary for feeling comfortable with the *nomenclature of* and *concepts in* online experimentation. This includes:
 
@@ -31,8 +29,6 @@ Currently, the practical emphasis (Chapters 3,4,5, & 6) of our resource is focus
 # A short introductory read
 Before embarking on the chapters in this resource, we recommend reading this [short introductory paper](https://doi.org/10.31234/osf.io/tr76d) ([Sauter, Draschkow, & Mack, 2020](https://doi.org/10.31234/osf.io/tr76d)). We hope that this will provide a brief overview of basic concepts, as well as outline the different software solutions available to researchers.
 
-For ease of reading, we have embedded it into this landing page.
-
 <!DOCTYPE html>
 <html>
     <body>
@@ -45,6 +41,9 @@ For ease of reading, we have embedded it into this landing page.
 
 
 --------
+
+# Contributors
+
 **Editors**: Melvin Kallmayer | Leila Zacharias | Dejan Draschkow
 
 **Maintainers**: Melvin Kallmayer | Leila Zacharias | Dejan Draschkow
