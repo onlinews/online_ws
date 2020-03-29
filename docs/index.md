@@ -1,12 +1,12 @@
 # Introduction to Online Experiments
-==================================================================================================
+--------
 
 Welcome to **Introduction to Online Experiments**, prepared by the [Brain & Cognition Lab](http://www.brainandcognition.org/). In this resource, we collate important information about online testing, and provide step-by-step guides for a successful transition to online experimentation.
 
 The content in this resource is of general relevance, but the specific examples in Chapter 1 are strongly tailored to the [University of Oxford](http://www.ox.ac.uk/), specifically the Departments of [Experimental Psychology](https://www.psy.ox.ac.uk/) and [Psychiatry](https://www.psych.ox.ac.uk/). If you are a member of these Departments, you can  follow the steps essentially 1 to 1 (and also find people with relevant expertise [here](https://teams.microsoft.com/_#/school/files/General?threadId=19%3Ad08f75a950904c1285d6d772373d3698%40thread.tacv2&ctx=channel&context=Expertise&rootfolder=%252Fsites%252FClinicalNeurosciences-OHBAOnlineExperiments%252FShared%2520Documents%252FGeneral%252FExpertise)). If you are a visitor from a different department, university or country, you will sometimes need to find solutions which are a bit more specific to your current environment. However, these cases are quite rare and usually pertain to some form of administrative task (mostly Chapter 1). Thus, the majority of the content here should be of relevance to anybody interested in embarking on the road to online experimentation.
 
 # What do I need to know before getting started?
-This [landing](https://online-ws.readthedocs.io/en/latest/) page, as well as [Chapter 1](https://online-ws.readthedocs.io/en/latest/Ch_1_GettingStarted/) cover most of the basics necessary for feeling comfortable with the *nomenclature of* and *concepts in* online experimentation. This includes:
+This [landing](https://online-ws.readthedocs.io/en/latest/) page, as well as [Chapter 1](https://online-ws.readthedocs.io/en/latest/Ch_1_GettingStarted/) cover most of the basics necessary to feel comfortable with the *nomenclature of* and *concepts in* online experimentation. This includes:
 
 * [Programming the experiment](https://online-ws.readthedocs.io/en/latest/Ch_1_GettingStarted/#12-programming-the-experiment)
 
@@ -22,7 +22,7 @@ When getting started, you will see that all these individual parts are associate
 
 ![Online Ecosystem](./img/onlineExp_simple.png)
 
-We hope that this figure as well as [the paper bellow](https://online-ws.readthedocs.io/en/latest/#a-short-introductory-read) guide you through the online jungle a bit.
+We hope that this figure as well as [the paper below](https://online-ws.readthedocs.io/en/latest/#a-short-introductory-read) guide you through the online jungle a bit.
 
 Currently, the practical emphasis (Chapters 3,4,5, & 6) of our resource is focused on implementing online studies within the [PsychoPy](https://psychopy.org/)/[Pavlovia](https://pavlovia.org/docs/home/about) ecosystem. With recruitment being performed in [SONA](https://opr.sona-systems.com) and [Prolific](https://www.prolific.co/); and ethical approval being obtained from [MS IDREC](https://researchsupport.admin.ox.ac.uk/governance/ethics/committees/msidrec). We aim at gradually covering alternative options, but the emphasis on this ecosystem will likely not change. Because we love [PsychoPy](https://psychopy.org/)/[Pavlovia](https://pavlovia.org/docs/home/about).
 

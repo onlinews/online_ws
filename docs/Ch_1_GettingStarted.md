@@ -123,7 +123,8 @@ The best way to navigate Prolific is to go through the many tutorials and exampl
 ### 1.4.3.1. Create a Prolific study
 In the following chapters we will advertise our study via Prolific, thus we will go through one example specifically. But in case you have not created any studies in Prolific yet, now is the time to try it out.
 
-1) After creating an account, add a VAT number via the ACCOUNT tab of Prolific. The universal Oxford University VAT number is ```GB125506730```. This will make payment claims much easier in the future.  
+1) After creating an account, add a VAT number via the ACCOUNT tab of Prolific. The universal Oxford University VAT number is ```GB125506730```. This will make payment claims much easier in the future.
+
 2) Next, you need to create/add a new study on Prolific.  Give the study a meaningful name - this is important as you will use it to claim participant money from the financial department of Experimental Psychology or Psychiatry. For the rest you can add placeholder information/links – these you can change at any time in the future. These fields are irrelevant at this stage.
 
 ![Create Online Study in Prolific](./img/ProlificNewStudy1.PNG)
@@ -183,4 +184,4 @@ Importantly, make sure that the servers hosting the data are [GDPR compliant](ht
 # 2. Ethics
 Even though we cover ethical approval last here, it is usually the first thing you need to get when you want to start experimenting.
 
-We have collated several [examples of successful applications for ethical approval](https://teams.microsoft.com/_#/school/files/General?threadId=19%3Ad08f75a950904c1285d6d772373d3698%40thread.tacv2&ctx=channel&context=OnlineEthics&rootfolder=%252Fsites%252FClinicalNeurosciences-OHBAOnlineExperiments%252FShared%2520Documents%252FGeneral%252FOnlineEthics), which are specific  to the University of Oxford.
+We have collated several [examples of successful applications for ethical approval](https://unioxfordnexus.sharepoint.com/sites/ClinicalNeurosciences-OHBAOnlineExperiments/Shared%20Documents/General/OnlineEthics), which are specific to the University of Oxford.
