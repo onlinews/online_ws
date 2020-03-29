@@ -104,16 +104,16 @@ The best way to navigate Prolific is to go through the many tutorials and exampl
 ### 1.4.3.1. Create a Prolific study
 In the following chapters we will advertise our study via Prolific, thus we will go through one example specifically. But in case you have not created any studies in Prolific yet, now is the time to try it out.
 
-1.  After creating an account, add a VAT number via the ACCOUNT tab of Prolific. The universal university VAT number is ```GB125506730```. This will make payment claims much easier in the future.
-2.  Next, you need to create/add a new study on Prolific.  Give the study a meaningful name - this is important as you will use it to claim participant money from the financial department of Experimental Psychology or Psychiatry. For the rest you can add placeholder information/links – these you can change later on at any time. They are irrelevant at this stage.
+1) After creating an account, add a VAT number via the ACCOUNT tab of Prolific. The universal university VAT number is ```GB125506730```. This will make payment claims much easier in the future.
+2) Next, you need to create/add a new study on Prolific.  Give the study a meaningful name - this is important as you will use it to claim participant money from the financial department of Experimental Psychology or Psychiatry. For the rest you can add placeholder information/links – these you can change later on at any time. They are irrelevant at this stage.
 
 ![Create Online Study in Prolific](./img/ProlificNewStudy1.PNG)
-3.  Note the two fields marked in yellow. The first one shows the study link. You will insert this link into your PsychoPy experiments. It redirects the participants back to Prolific when they are done with the experiment. This is how Prolific knows who finished the task and how long it took them.
+3) Note the two fields marked in yellow. The first one shows the study link. You will insert this link into your PsychoPy experiments. It redirects the participants back to Prolific when they are done with the experiment. This is how Prolific knows who finished the task and how long it took them.
 
-4.  When you create a new study, you need to enter **(1)** how many participants you want to recruit, and **(2)** the amount you want to reward to each participant as stated in your ethics.
+4) When you create a new study, you need to enter **(1)** how many participants you want to recruit, and **(2)** the amount you want to reward to each participant as stated in your ethics.
 
 ![Create Online Study in Prolific](./img/ProlificNewStudy2.PNG)
-5.  Save the study **as a draft**.
+5) Save the study **as a draft**.
 
 
 For the purpose of this workshop, please create a study with the following specifications:
