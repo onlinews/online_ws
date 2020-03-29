@@ -104,7 +104,7 @@ The best way to navigate Prolific is to go through the many tutorials and exampl
 ### 1.4.3.1. Create a Prolific study
 In the following chapters we will advertise our study via Prolific, thus we will go through one example specifically. But in case you have not created any studies in Prolific yet, now is the time to try it out.
 
-1) After creating an account, add a VAT number via the ACCOUNT tab of Prolific. The universal university VAT number is ```GB125506730```. This will make payment claims much easier in the future.
+1) After creating an account, add a VAT number via the ACCOUNT tab of Prolific. The universal university VAT number is ```GB125506730```. This will make payment claims much easier in the future.  
 2) Next, you need to create/add a new study on Prolific.  Give the study a meaningful name - this is important as you will use it to claim participant money from the financial department of Experimental Psychology or Psychiatry. For the rest you can add placeholder information/links – these you can change later on at any time. They are irrelevant at this stage.
 
 ![Create Online Study in Prolific](./img/ProlificNewStudy1.PNG)
