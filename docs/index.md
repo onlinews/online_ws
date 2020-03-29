@@ -1,4 +1,4 @@
-Introduction to Online Experiments
+# Introduction to Online Experiments
 ==================================================================================================
 
 Welcome to **Introduction to Online Experiments**, prepared by the [Brain & Cognition Lab](http://www.brainandcognition.org/). In this resource, we collate important information about online testing, and provide step-by-step guides for a successful transition to online experimentation.
@@ -28,6 +28,7 @@ Currently, the practical emphasis (Chapters 3,4,5, & 6) of our resource is focus
 
 # A short introductory read
 Before embarking on the chapters in this resource, we recommend reading this [short introductory paper](https://doi.org/10.31234/osf.io/tr76d) ([Sauter, Draschkow, & Mack, 2020](https://doi.org/10.31234/osf.io/tr76d)). We hope that this will provide a brief overview of basic concepts, as well as outline the different software solutions available to researchers.
+
 
 <!DOCTYPE html>
 <html>
