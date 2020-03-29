@@ -32,12 +32,18 @@ Here we focus on PsychoPy, but this of course is not the only way to create expe
 PsychoPy is what we will use to create our study, but once it is created, how will participants reach it? Again, there are many ways in which to do this. People who know what they are doing usually prefer to run studies from their own server (or cloud services such as [AWS](https://aws.amazon.com/)). This allows for full control over the environment, but comes with the downside of an extremely steep "how-to-deal-with-servers" learning curve. Further, it seems that it is not a very sustainable way of enabling many people to run studies online - usually people who set these servers up leave after a few years and their product becomes outdated and is simply not used anymore. By all means, if you feel like setting up and running your study from your own or a university server - do it! But the rest of us will have to select a provider which handles all the nitty gritty mechanics. The downside is that this is never a free service - we will have to pay the provider to host our studies. As Oxford affiliates we have two options (licenses are paid for): [Gorilla](https://gorilla.sc/) and the one we will use in this workshop -> [Pavlovia](https://pavlovia.org/docs/home/about).
 
 Pavlovia is nothing short of incredible, even more so when considering that is completely born out of the PsychoPy lab.
-- The unlimited license is [quite cheap](https://pavlovia.org/docs/store/pricing) for universities.
-- All money goes into development and salaries.
-- You can [share and download experiments](https://pavlovia.org/explore).
-- Experimental generation is managed by a GitLab version control environment.
-- It interacts well with participant recruitment systems (e.g. SONA or Prolific).
-- It can host experiments created in PsychoPy, jsPsych, or lab.js.
+
+* The unlimited license is [quite cheap](https://pavlovia.org/docs/store/pricing) for universities.
+
+* All money goes into development and salaries.
+
+* You can [share and download experiments](https://pavlovia.org/explore).
+
+* Experimental generation is managed by a GitLab version control environment.
+
+* It interacts well with participant recruitment systems (e.g. SONA or Prolific).
+
+* It can host experiments created in PsychoPy, jsPsych, or lab.js.
 
 ### 1.3.1. Create a Pavlovia account
 Please register for a [Pavlovia](https://pavlovia.org/) account. You should use your ```ox.ac.uk``` email address in order to get access to the *unlimited license*.
@@ -159,4 +165,4 @@ After each participant completes the study, the data is saved on the server of t
 Importantly, make sure that the servers hosting the data are [GDPR compliant](https://pavlovia.org/docs/home/ethics).
 
 # 2. Ethics
-Even though we cover ethical approval last here, it is usually the first thing you need to get when you want to start experimenting. 
+Even though we cover ethical approval last here, it is usually the first thing you need to get when you want to start experimenting.
