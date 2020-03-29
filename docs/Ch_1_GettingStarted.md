@@ -75,30 +75,27 @@ After creating your study and finding an appropriate hosting service for it, you
 ### 1.4.2. In-house recruiting system (e.g. SONA)
 Advertising and recruiting for a study via [SONA Experimental Psychology](https://opr.sona-systems.com) or the in-house recruiting system of your university, is extremely similar to the way you do it for in-lab studies. We will give a quick step-by-step example using SONA.
 
-**1)** After *creating a* | *logging in with* your Researcher account, you can ```Add New Study```.
-
+1. After *creating a* | *logging in with* your Researcher account, you can ```Add New Study```.
 ![Advertise Online Study in SONA](./img/SonaSetUpStudy.PNG)
 
-**2)** Critically, you need to add the link to your study in the **Study URL** section. As SONA instructs, you have to append ```participant=%SURVEY_CODE%``` to your link. This will create a SONA specific participant ID, which is critical for compensation, as it allows matching the data file with the participant who completed the task.
-
+2. Critically, you need to add the link to your study in the **Study URL** section. As SONA instructs, you have to append ```participant=%SURVEY_CODE%``` to your link. This will create a SONA specific participant ID, which is critical for compensation, as it allows matching the data file with the participant who completed the task.
 ![Advertise Online Study in SONA](./img/SonaSetUpStudy2.PNG)
 
-**3)** Ideally, the description of your task in SONA is quite informative - mainly when it comes to money. This prevents a lot of unnecessary back-and-forth email between you and your participants.
+3. Ideally, the description of your task in SONA is quite informative - mainly when it comes to money. This prevents a lot of unnecessary back-and-forth email between you and your participants.
 
-A brief example:
-```
-Click the Complete Survey Now button after signing up for a time slot.
-It will take you to an experiment which will open in a full-screen window.
-Please do not exit this window until you complete the experiment.
-You can ONLY complete this experiment by using Mozilla Firefox or Chrome as a browser.
-Safari and Edge are not allowed.
-The experiment is quite fun, lasts approx. 20 min and you will receive 3 pounds for it.
-You will be contacted via email (available to us via SONA) about providing us with
-your payment information a few days after you participated.
-It can take up to 3 weeks for the payment to be processed.
-```
-**4)** Creating timeslots is a bit different for online studies. Instead of a classic "slot", you create a *deadline*. You can select the amount of people you want to test and then participants can sign up for it in the same way they would sign up for in-lab studies. In this case, *signing up* does not equal *participating*. Participants are free to participate in the study UNTIL the deadline, thus it can happen that somebody signs up, but will not complete the study for a week (depending on the deadline).
-
+  A brief example:
+  ```
+  Click the Complete Survey Now button after signing up for a time slot.
+  It will take you to an experiment which will open in a full-screen window.
+  Please do not exit this window until you complete the experiment.
+  You can ONLY complete this experiment by using Mozilla Firefox or Chrome as a browser.
+  Safari and Edge are not allowed.
+  The experiment is quite fun, lasts approx. 20 min and you will receive 3 pounds for it.
+  You will be contacted via email (available to us via SONA) about providing us with
+  your payment information a few days after you participated.
+  It can take up to 3 weeks for the payment to be processed.
+  ```
+4). Creating timeslots is a bit different for online studies. Instead of a classic "slot", you create a *deadline*. You can select the amount of people you want to test and then participants can sign up for it in the same way they would sign up for in-lab studies. In this case, *signing up* does not equal *participating*. Participants are free to participate in the study UNTIL the deadline, thus it can happen that somebody signs up, but will not complete the study for a week (depending on the deadline).
 ![Advertise Online Study in SONA](./img/SonaSetUpStudy3.PNG)
 
 #### 1.4.2.1 Paying for studies via SONA (specific to Oxford)
@@ -160,7 +157,7 @@ For a more comprehensive description of payments in Prolific, have a look [here]
 
 3. You can now send the generated **PDF quote** + **Requested Invoice (email or PDF)** + **the grant number/information** that pays for the study to your Lab Manager who will raise a PO for it. Expect the requested amount to be added to your Prolific account in about 2 weeks.
 
-  *Note: The quote you generated is study-specific – so one quote = one study. In case you want money for multiple studies, you need to create them in Prolific and follow the steps above in order to get quotes for each one separately. This means that you need to decide on the number of participants you want to test per study before you actually run it.*
+    *Note: The quote you generated is study-specific – so one quote = one study. In case you want money for multiple studies, you need to create them in Prolific and follow the steps above in order to get quotes for each one separately. This means that you need to decide on the number of participants you want to test per study before you actually run it.*
 
 4. Once you have collected all participants for a study you should send the Lab Manager a summary of the costs and participants. This is quite easy. Just go to your ```Completed studies``` and download the ```Detailed summary```.
 ![Advertise Online Study in Prolific](./img/ProlificSetUp3.png)
