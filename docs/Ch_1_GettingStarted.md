@@ -123,19 +123,17 @@ The best way to navigate Prolific is to go through the many tutorials and exampl
 ### 1.4.3.1. Create a Prolific study
 In the following chapters we will advertise our study via Prolific, thus we will go through one example specifically. But in case you have not created any studies in Prolific yet, now is the time to try it out.
 
-1) After creating an account, add a VAT number via the ACCOUNT tab of Prolific. The universal Oxford University VAT number is ```GB125506730```. This will make payment claims much easier in the future.
+1. After creating an account, add a VAT number via the ACCOUNT tab of Prolific. The universal Oxford University VAT number is ```GB125506730```. This will make payment claims much easier in the future.
 
-2) Next, you need to create/add a new study on Prolific.  Give the study a meaningful name - this is important as you will use it to claim participant money from the financial department of Experimental Psychology or Psychiatry. For the rest you can add placeholder information/links – these you can change at any time in the future. These fields are irrelevant at this stage.
-
+2. Next, you need to create/add a new study on Prolific.  Give the study a meaningful name - this is important as you will use it to claim participant money from the financial department of Experimental Psychology or Psychiatry. For the rest you can add placeholder information/links – these you can change at any time in the future. These fields are irrelevant at this stage.
 ![Create Online Study in Prolific](./img/ProlificNewStudy1.PNG)
 
-3) Note the two fields marked in yellow. The first one shows the study link. You will insert this link into your PsychoPy experiments. It redirects the participants back to Prolific when they are done with the experiment. This is how Prolific knows who finished the task and how long it took them.
+3. Note the two fields marked in yellow. The first one shows the study link. You will insert this link into your PsychoPy experiments. It redirects the participants back to Prolific when they are done with the experiment. This is how Prolific knows who finished the task and how long it took them.
 
-4) When you create a new study, you need to enter **(1)** how many participants you want to recruit, and **(2)** the amount you want to reward to each participant as stated in your [ethics](https://online-ws.readthedocs.io/en/latest/Ch_1_GettingStarted/#2-ethics).
-
+4. When you create a new study, you need to enter **(1)** how many participants you want to recruit, and **(2)** the amount you want to reward to each participant as stated in your [ethics](https://online-ws.readthedocs.io/en/latest/Ch_1_GettingStarted/#2-ethics).
 ![Create Online Study in Prolific](./img/ProlificNewStudy2.PNG)
 
-5) Save the study **as a draft**.
+5. Save the study **as a draft**.
 
 
 In case you want to follow the following chapters 1 to 1, please create a study with the following specifications. But this is not so critical. The important thing is that you somehow have a bit of money on your prolific account.
@@ -154,23 +152,20 @@ In case you want to follow the following chapters 1 to 1, please create a study 
 #### 1.4.3.2. Paying for studies via Prolific
 For a more comprehensive description of payments in Prolific, have a look [here](https://teams.microsoft.com/_#/school/files/General?threadId=19%3Ad08f75a950904c1285d6d772373d3698%40thread.tacv2&ctx=channel&context=PaymentForms&rootfolder=%252Fsites%252FClinicalNeurosciences-OHBAOnlineExperiments%252FShared%2520Documents%252FGeneral%252FPaymentForms).
 
-1) From the ```Action menu``` of the study (draft), you need to ```Download quote``` and ```Request Invoice```.
-
+1. From the ```Action menu``` of the study (draft), you need to ```Download quote``` and ```Request Invoice```.
 ![Advertise Online Study in Prolific](./img/ProlificSetUp1.png)
 
-2) You need to set the appropriate billing address when requesting an invoice. The address should be the address of your department (department of the grant): for EP that is ```Experimental Psychology Finance Office, University of Oxford, Anna Watts building, Radcliffe Observatory Quarter, Woodstock Road, Oxford, OX2 6GG```; for Psychiatry: ```Department of Psychiatry Finance Office, University of Oxford, Warneford, Hospital, Oxford, OX3 7JX```.
-
+2. You need to set the appropriate billing address when requesting an invoice. The address should be the address of your department (department of the grant): for EP that is ```Experimental Psychology Finance Office, University of Oxford, Anna Watts building, Radcliffe Observatory Quarter, Woodstock Road, Oxford, OX2 6GG```; for Psychiatry: ```Department of Psychiatry Finance Office, University of Oxford, Warneford, Hospital, Oxford, OX3 7JX```.
 ![Advertise Online Study in Prolific](./img/ProlificSetUp2.png)
 
-3) You can now send the generated **PDF quote** + **Requested Invoice (email or PDF)** + **the grant number/information** that pays for the study to your Lab Manager who will raise a PO for it. Expect the requested amount to be added to your Prolific account in about 2 weeks.
+3. You can now send the generated **PDF quote** + **Requested Invoice (email or PDF)** + **the grant number/information** that pays for the study to your Lab Manager who will raise a PO for it. Expect the requested amount to be added to your Prolific account in about 2 weeks.
 
-*Note: The quote you generated is study-specific – so one quote = one study. In case you want money for multiple studies, you need to create them in Prolific and follow the steps above in order to get quotes for each one separately. This means that you need to decide on the number of participants you want to test per study before you actually run it.*
+  *Note: The quote you generated is study-specific – so one quote = one study. In case you want money for multiple studies, you need to create them in Prolific and follow the steps above in order to get quotes for each one separately. This means that you need to decide on the number of participants you want to test per study before you actually run it.*
 
-4) Once you have collected all participants for a study you should send the Lab Manager a summary of the costs and participants. This is quite easy. Just go to your ```Completed studies``` and download the ```Detailed summary```.
-
+4. Once you have collected all participants for a study you should send the Lab Manager a summary of the costs and participants. This is quite easy. Just go to your ```Completed studies``` and download the ```Detailed summary```.
 ![Advertise Online Study in Prolific](./img/ProlificSetUp3.png)
 
-5) *Refunds: In case you did not use all the money on your Prolific account, please make sure to request a refund of that money as described [here](https://researcher-help.prolific.co/hc/en-gb/articles/360009092434-Refunds). Contact your Lab Manager briefly before you do that.*
+5. *Refunds: In case you did not use all the money on your Prolific account, please make sure to request a refund of that money as described [here](https://researcher-help.prolific.co/hc/en-gb/articles/360009092434-Refunds). Contact your Lab Manager briefly before you do that.*
 
 
 ### 1.4.4. Benefits of using online studies for in-lab experimentation
