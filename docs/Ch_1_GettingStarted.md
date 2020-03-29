@@ -119,9 +119,12 @@ For the purpose of this workshop, please create a study with the following speci
 ```
 1. Call your study "Bell or dog? DD"  - with your initials after the question mark
 
-2. You can insert any URL in the "URL of your study" section, it's not important - we will change this later on
+2. You can insert any URL in the "URL of your study" section,
+   it's not important - we will change this later on
 
-3. In the study set-up say that you want to recruit 3 participants, and the study will take 45mins and you want to pay 5 pounds, this should result in a cost of 21 pounds.
+3. In the study set-up say that you want to recruit 3 participants,
+   and the study will take 45mins and you want to pay 5 pounds,
+   this should result in a cost of 21 pounds.
 ```
 
 #### 1.4.3.2. Paying for studies via Prolific (only relevant for B&C Lab)
@@ -137,7 +140,7 @@ For a more comprehensive description of payments in Prolific, have a look [here]
 
 3) You can now send the generated **PDF quote** + **Requested Invoice (email or PDF)** + **the grant number/information** that pays for the study to the B&C Lab Manager who will raise a PO for it. Expect the requested amount to be added to your Prolific account in about 2 weeks.
 
-    *Note: The quote you generated is study-specific – so one quote = one study. In case you want money for multiple studies, you need to create them in Prolific and follow the steps above in order to get quotes for each one separately. This means that you need to decide on the number of participants you want to test per study before you actually run it.*
+*Note: The quote you generated is study-specific – so one quote = one study. In case you want money for multiple studies, you need to create them in Prolific and follow the steps above in order to get quotes for each one separately. This means that you need to decide on the number of participants you want to test per study before you actually run it.*
 
 4) Once you have collected all participants for a study you should send the Lab Manager a summary of the costs and participants. This is quite easy. Just go to your ```Completed studies``` and download the ```Detailed summary```.
 
@@ -149,7 +152,7 @@ For a more comprehensive description of payments in Prolific, have a look [here]
 ### 1.4.4. Benefits of using online studies for in-lab experimentation
 In certain circumstances, coding and hosting your study online can also be a viable option for conducting in-lab experiments. It requires very little prerequisites from the hosting lab computer - a functioning browser and an active internet connection. This can be extremely efficient for testing multiple subjects at once, at so-called "multi-testing" facilities. Further, it allows for flexible testing in unknown environments - e.g. testing in schools or in the lab of a collaborator. Finally, conducting experiments this way has the benefit of a centralized location of data storage, that is the *server* (see 1.3.). So irrespective of the different testing locations, the data always ends up in the same spot and is immediately accessible to the researcher.
 
-## 1.6. Data
+## 1.5. Data
 After each participant completes the study, the data is saved on the server of the respective host (see 1.3.). In the case of Pavlovia, simply syncing the experimental folder will download the latest data files. This can also be done manually on the GitLab page of the study (e.g. the ```data``` folder [here](https://gitlab.pavlovia.org/demos/stroop/tree/master)), but more about this will be covered in the subsequent chapters.
 
 Importantly, make sure that the servers hosting the data are [GDPR compliant](https://pavlovia.org/docs/home/ethics).
