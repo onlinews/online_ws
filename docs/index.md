@@ -22,7 +22,7 @@ When getting started, you will see that all these individual parts are associate
 
 **image will come here**
 
-We hope that this *graphical illustration* as well as [the paper bellow](https://online-ws.readthedocs.io/en/latest/#a-short-introductory-read) guide you through the online jungle a bit.
+We hope that this figure as well as [the paper bellow](https://online-ws.readthedocs.io/en/latest/#a-short-introductory-read) guide you through the online jungle a bit.
 
 Currently, the practical emphasis (Chapters 3,4,5, & 6) of our resource is focused on implementing online studies within the [PsychoPy](https://psychopy.org/)/[Pavlovia](https://pavlovia.org/docs/home/about) ecosystem. With recruitment being performed in [SONA](https://opr.sona-systems.com) and [Prolific](https://www.prolific.co/); and ethical approval being obtained from [MS IDREC](https://researchsupport.admin.ox.ac.uk/governance/ethics/committees/msidrec). We aim at gradually covering alternative options, but the emphasis on this ecosystem will likely not change. Because we love [PsychoPy](https://psychopy.org/)/[Pavlovia](https://pavlovia.org/docs/home/about).
 
