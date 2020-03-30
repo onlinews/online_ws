@@ -95,19 +95,20 @@ Advertising and recruiting for a study via [SONA Experimental Psychology](https:
   your payment information a few days after you participated.
   It can take up to 3 weeks for the payment to be processed.
   ```
-4). Creating timeslots is a bit different for online studies. Instead of a classic "slot", you create a *deadline*. You can select the amount of people you want to test and then participants can sign up for it in the same way they would sign up for in-lab studies. In this case, *signing up* does not equal *participating*. Participants are free to participate in the study UNTIL the deadline, thus it can happen that somebody signs up, but will not complete the study for a week (depending on the deadline).
+
+4. Creating timeslots is a bit different for online studies. Instead of a classic "slot", you create a *deadline*. You can select the amount of people you want to test and then participants can sign up for it in the same way they would sign up for in-lab studies. In this case, *signing up* does not equal *participating*. Participants are free to participate in the study UNTIL the deadline, thus it can happen that somebody signs up, but will not complete the study for a week (depending on the deadline).
 ![Advertise Online Study in SONA](./img/SonaSetUpStudy3.PNG)
 
 #### 1.4.2.1 Paying for studies via SONA (specific to Oxford)
 SONA is a solid place to advertise and recruit, however it scales poorly. There is not too many participants in the system to begin with and paying participants is quite cumbersome. So we can recommend it with manageable sample sizes (<30 participants), but it is a huge time sink for big sample sizes.
 
-For a more comprehensive description of payments in Oxford, have a look [here](https://teams.microsoft.com/_#/school/files/General?threadId=19%3Ad08f75a950904c1285d6d772373d3698%40thread.tacv2&ctx=channel&context=PaymentForms&rootfolder=%252Fsites%252FClinicalNeurosciences-OHBAOnlineExperiments%252FShared%2520Documents%252FGeneral%252FPaymentForms).
+For a more comprehensive description of payments in Oxford, have a look [here](https://unioxfordnexus.sharepoint.com/:f:/s/ClinicalNeurosciences-OHBAOnlineExperiments/Eou5eA5Ro-5OgoBZSYHJZ2UBH9FarE6lxP7DkmZPbKJKrA?e=xQzXxm).
 
 1.	Once you have created your SONA online study and added your study link to it, you can set time slots and number of participants just like with regular studies. You pay participants after they have participated.
-2.	Participants will sign up and complete your study. Try to time your testing slots well so that you can test at least 10 participants in a week. Testing  more than 9 participants allows you to use the bulk testing form of the **Experimental Psychology Department** or the **Department of Psychiatry**. Find the forms and more information [here](https://teams.microsoft.com/_#/school/files/General?threadId=19%3Ad08f75a950904c1285d6d772373d3698%40thread.tacv2&ctx=channel&context=PaymentForms&rootfolder=%252Fsites%252FClinicalNeurosciences-OHBAOnlineExperiments%252FShared%2520Documents%252FGeneral%252FPaymentForms).
+2.	Participants will sign up and complete your study. Try to time your testing slots well so that you can test at least 10 participants in a week. Testing  more than 9 participants allows you to use the bulk testing form of the **Experimental Psychology Department** or the **Department of Psychiatry**. Find the forms and more information [here](https://unioxfordnexus.sharepoint.com/:f:/s/ClinicalNeurosciences-OHBAOnlineExperiments/Eou5eA5Ro-5OgoBZSYHJZ2UBH9FarE6lxP7DkmZPbKJKrA?e=xQzXxm).
 Try not to let too much time pass until you have collected 10 participants, so that the *first* participant doesn’t have to wait too long for their payment – this creates unnecessary and time-consuming email queries.
 3.	In order to get the participants' payment information, you will need to contact them manually (we know – quite time-consuming and not great for big studies; almost as depressing as the life of one of the authors - a self-defined color-blind synesthete). The easiest way to contact participants is to ```Download the SONA Participant List``` as a .csv file and copy all the email addresses from it. This option is available via the ```Study Menu``` of your study.
-4.	The most time efficient method is to let participants fill out a simplified [blank form](https://teams.microsoft.com/_#/school/files/General?threadId=19%3Ad08f75a950904c1285d6d772373d3698%40thread.tacv2&ctx=channel&context=PaymentForms&rootfolder=%252Fsites%252FClinicalNeurosciences-OHBAOnlineExperiments%252FShared%2520Documents%252FGeneral%252FPaymentForms) themselves and send it back to you. You can then collate all the forms and just copy-paste them into one form. Save the form using the study name followed by the date period it covers. Password protect the final form and send it to your Lab Manager, followed by the password in a separate email.
+4.	The most time efficient method is to let participants fill out a simplified [blank form](https://unioxfordnexus.sharepoint.com/:f:/s/ClinicalNeurosciences-OHBAOnlineExperiments/Eou5eA5Ro-5OgoBZSYHJZ2UBH9FarE6lxP7DkmZPbKJKrA?e=xQzXxm) themselves and send it back to you. You can then collate all the forms and just copy-paste them into one form. Save the form using the study name followed by the date period it covers. Password protect the final form and send it to your Lab Manager, followed by the password in a separate email.
 
 *Note: In the study description (and when you are contacting participants), please keep participants well-informed about the duration (usually 3 weeks) and the overall process of the reimbursement. This spares everybody a lot of unnecessary email traffic.*
 
@@ -133,7 +134,7 @@ In the following chapters we will advertise our study via Prolific, thus we will
 5. Save the study **as a draft**.
 
 
-In case you want to follow the following chapters 1 to 1, please create a study with the following specifications. But this is not so critical. The important thing is that you somehow have a bit of money on your prolific account.
+In case you want to follow the subsequent chapters beat by beat, please create a study with the following specifications. But this is not so critical. **The important thing is that you somehow have a bit of money on your prolific account.**
 
 ```
 1. Call your study "Bell or dog? DD"  - with your initials after the question mark.
@@ -147,7 +148,7 @@ In case you want to follow the following chapters 1 to 1, please create a study 
 ```
 
 #### 1.4.3.2. Paying for studies via Prolific
-For a more comprehensive description of payments in Prolific, have a look [here](https://teams.microsoft.com/_#/school/files/General?threadId=19%3Ad08f75a950904c1285d6d772373d3698%40thread.tacv2&ctx=channel&context=PaymentForms&rootfolder=%252Fsites%252FClinicalNeurosciences-OHBAOnlineExperiments%252FShared%2520Documents%252FGeneral%252FPaymentForms).
+For a more comprehensive description of payments in Prolific, have a look [here](https://unioxfordnexus.sharepoint.com/:f:/s/ClinicalNeurosciences-OHBAOnlineExperiments/Eou5eA5Ro-5OgoBZSYHJZ2UBH9FarE6lxP7DkmZPbKJKrA?e=xQzXxm).
 
 1. From the ```Action menu``` of the study (draft), you need to ```Download quote``` and ```Request Invoice```.
 ![Advertise Online Study in Prolific](./img/ProlificSetUp1.png)
@@ -176,4 +177,4 @@ Importantly, make sure that the servers hosting the data are [GDPR compliant](ht
 # 2. Ethics
 Even though we cover ethical approval last here, it is usually the first thing you need to get when you want to start experimenting.
 
-We have collated several [examples of successful applications for ethical approval](https://unioxfordnexus.sharepoint.com/sites/ClinicalNeurosciences-OHBAOnlineExperiments/Shared%20Documents/General/OnlineEthics), which are specific to the University of Oxford.
+We have collated several [examples of successful applications for ethical approval](https://unioxfordnexus.sharepoint.com/:f:/s/ClinicalNeurosciences-OHBAOnlineExperiments/EsU1oM6UwrlBhkrTKEBi1doB36byS5MdDjBsL_v1i6R-KA?e=yJ3Kql), which are specific to the University of Oxford.
