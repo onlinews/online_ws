@@ -175,4 +175,4 @@ Importantly, make sure that the servers hosting the data are [GDPR compliant](ht
 # 2. Ethics
 Even though we cover ethical approval last here, it is usually the first thing you need to get when you want to start experimenting.
 
-We have collated several [examples of successful applications for ethical approval](https://unioxfordnexus.sharepoint.com/:f:/s/ClinicalNeurosciences-OHBAOnlineExperiments/EsU1oM6UwrlBhkrTKEBi1doB36byS5MdDjBsL_v1i6R-KA?e=yJ3Kql), which are specific to the University of Oxford.
+Thanks to the amazing [expertise](https://unioxfordnexus.sharepoint.com/:f:/s/ClinicalNeurosciences-OHBAOnlineExperiments/En4FGfw7n-xCmPNXx1L4h_gB7iz3jwwcjRBXecBAlnTdaQ?e=vKTHW7) in the Department, we have collated several [examples of successful applications for ethical approval](https://unioxfordnexus.sharepoint.com/:f:/s/ClinicalNeurosciences-OHBAOnlineExperiments/EsU1oM6UwrlBhkrTKEBi1doB36byS5MdDjBsL_v1i6R-KA?e=yJ3Kql).
