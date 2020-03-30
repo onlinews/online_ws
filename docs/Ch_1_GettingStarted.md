@@ -82,18 +82,20 @@ Advertising and recruiting for a study via [SONA Experimental Psychology](https:
 ![Advertise Online Study in SONA](./img/SonaSetUpStudy2.PNG)
 
 3. Ideally, the description of your task in SONA is quite informative - mainly when it comes to money. This prevents a lot of unnecessary back-and-forth email between you and your participants.
-      A brief example:
-      ```
-      Click the Complete Survey Now button after signing up for a time slot.
-      It will take you to an experiment which will open in a full-screen window.
-      Please do not exit this window until you complete the experiment.
-      You can ONLY complete this experiment by using Mozilla Firefox or Chrome as a browser.
-      Safari and Edge are not allowed.
-      The experiment is quite fun, lasts approx. 20 min and you will receive 3 pounds for it.
-      You will be contacted via email (available to us via SONA) about providing us with
-      your payment information a few days after you participated.
-      It can take up to 3 weeks for the payment to be processed.
-      ```
+
+    A brief example:
+    ```
+    Click the Complete Survey Now button after signing up for a time slot.
+    It will take you to an experiment which will open in a full-screen window.
+    Please do not exit this window until you complete the experiment.
+    You can ONLY complete this experiment by using Mozilla Firefox or Chrome as a browser.
+    Safari and Edge are not allowed.
+    The experiment is quite fun, lasts approx. 20 min and you will receive 3 pounds for it.
+    You will be contacted via email (available to us via SONA) about providing us with
+    your payment information a few days after you participated.
+    It can take up to 3 weeks for the payment to be processed.
+    ```
+
 4. Creating timeslots is a bit different for online studies. Instead of a classic "slot", you create a *deadline*. You can select the amount of people you want to test and then participants can sign up for it in the same way they would sign up for in-lab studies. In this case, *signing up* does not equal *participating*. Participants are free to participate in the study UNTIL the deadline, thus it can happen that somebody signs up, but will not complete the study for a week (depending on the deadline).
 
 ![Advertise Online Study in SONA](./img/SonaSetUpStudy3.PNG)
