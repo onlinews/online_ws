@@ -17,7 +17,7 @@ We have an experimental folder called ```OwnStroop``` which contains all the rel
 
 2. Now select ```Sync with web project``` ![Button](./img/Sync.PNG) and choose that you want to *create a new project*.
 
-3. Give it a name, e.g. ```OnlineWorkshopStroop``` and select yourself as the owner of the project (maybe give it a different name, because late on we will download an experiment which is called exactly like this and it will get confusing). At this time you probably should **not** select the project to be publicly accessible. Note, that "public", really means "public" - so everybody could also access the data that you are collecting.
+3. Give it a name, e.g. ```OnlineWorkshopStroop``` and select yourself as the owner of the project (maybe give it a different name, because later on we will download an experiment which is called exactly like this and it will get confusing). At this time you probably should **not** select the project to be publicly accessible. Note, that "public", really means "public" - so everybody could also access the data that you are collecting.
 ![Make Stroop Online](./img/MakeStroopOnline3.PNG)
 
 
