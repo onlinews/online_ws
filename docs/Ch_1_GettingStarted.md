@@ -82,7 +82,6 @@ Advertising and recruiting for a study via [SONA Experimental Psychology](https:
 ![Advertise Online Study in SONA](./img/SonaSetUpStudy2.PNG)
 
 3. Ideally, the description of your task in SONA is quite informative - mainly when it comes to money. This prevents a lot of unnecessary back-and-forth email between you and your participants.
-
       A brief example:
       ```
       Click the Complete Survey Now button after signing up for a time slot.
