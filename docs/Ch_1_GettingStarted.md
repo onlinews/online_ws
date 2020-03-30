@@ -95,7 +95,6 @@ You will be contacted via email (available to us via SONA) about providing us wi
 your payment information a few days after you participated.
 It can take up to 3 weeks for the payment to be processed.
 ```
-
 4. Creating timeslots is a bit different for online studies. Instead of a classic "slot", you create a *deadline*. You can select the amount of people you want to test and then participants can sign up for it in the same way they would sign up for in-lab studies. In this case, *signing up* does not equal *participating*. Participants are free to participate in the study UNTIL the deadline, thus it can happen that somebody signs up, but will not complete the study for a week (depending on the deadline).
 ![Advertise Online Study in SONA](./img/SonaSetUpStudy3.PNG)
 
