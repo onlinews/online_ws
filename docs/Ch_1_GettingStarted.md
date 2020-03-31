@@ -37,7 +37,7 @@ How will participants reach the study once we have programmed it? Again, there a
 
 By all means, if you feel like setting up and running your study from your own or a university server - do it (we recommend [JATOS](https://www.jatos.org/Get-started.html) which you can set up with the help of [MSD IT](https://www.medsci.ox.ac.uk/divisional-services/support-services-1/information-technology) in case you are in Oxford).
 
-The rest of us will have to select a provider which handles all the nitty gritty mechanics. The downside is that this is never a free service - we will have to pay the provider to host our studies. Oxford affiliates we have two options (licenses are paid for): [Gorilla](https://gorilla.sc/), [Testable](https://www.testable.org/) (so far only for 2020) and the one we will use in the following chapters -> [Pavlovia](https://pavlovia.org/docs/home/about).
+The rest of us will have to select a provider which handles all the nitty gritty mechanics. The downside is that this is never a free service - we will have to pay the provider to host our studies. Oxford affiliates we have two options (licenses are paid for): [Gorilla](https://gorilla.sc/), [Testable](https://www.testable.org/) (so far only for 2020) and the one we will use in the following chapters -> [Pavlovia](https://pavlovia.org/docs/home/about) (all ```ox.ac.uk``` emails have a full license for Pavlovia).
 
 Pavlovia is nothing short of incredible (you will notice that we get emotional quite easily), even more so when considering that is completely born out of a university lab.
 
