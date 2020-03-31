@@ -33,7 +33,7 @@ A great way to get your feet wet, is to complete this [15min video tutorial](htt
 Here we focus on PsychoPy, but this of course is not the only way to create experiments which could be made online-compatible. Popular other alternatives are [OpenSesame](https://osdoc.cogsci.nl/3.2/manual/osweb/), [jsPsych](https://www.jspsych.org/tutorials/hello-world/), [Gorilla](https://gorilla.sc/), [lab.js](https://labjs.readthedocs.io/en/latest/), [PCIbex](https://www.pcibex.net/documentation/), etc. You can find a quite comprehensive list of alternatives [here](https://online-ws.readthedocs.io/en/latest/#a-short-introductory-read).
 
 ## 1.3. Hosting the study
-How will participants reach the study once we have programmed it? Again, there are many ways in which to do this. People who know what they are doing usually prefer to run studies from their own server (or cloud services such as [AWS](https://aws.amazon.com/)). This allows for full control over the environment, but comes with the downside of an rather steep "how-to-deal-with-servers" learning curve. Further, it seems that it is not a very sustainable way of enabling many people to run studies online - usually people who set these servers up leave after a few years and their product becomes outdated and is simply not used anymore.
+How will participants reach the study once we have programmed it? Again, there are many ways in which to do this. People who know what they are doing usually prefer to run studies from their own server (or cloud services such as [AWS](https://aws.amazon.com/)). This allows for full control over the environment, but comes with the downside of a rather steep "how-to-deal-with-servers" learning curve. Further, it seems that it is not a very sustainable way of enabling many people to run studies online - usually people who set these servers up leave after a few years and their product becomes outdated and is simply not used anymore.
 
 By all means, if you feel like setting up and running your study from your own or a university server - do it (we recommend [JATOS](https://www.jatos.org/Get-started.html) which you can set up with the help of [MSD IT](https://www.medsci.ox.ac.uk/divisional-services/support-services-1/information-technology) in case you are in Oxford).
 
@@ -101,7 +101,7 @@ It can take up to 3 weeks for the payment to be processed.
 ![Advertise Online Study in SONA](./img/SonaSetUpStudy3.PNG)
 
 #### 1.4.2.1 Paying for studies via SONA (specific to Oxford)
-SONA is a solid place to advertise and recruit, however it scales poorly. There is not too many participants in the system to begin with and paying participants is quite cumbersome. So we can recommend it with manageable sample sizes (<30 participants), but it is a huge time sink for big sample sizes.
+SONA is a solid place to advertise and recruit, however it scales poorly. There are not too many participants in the system to begin with and paying participants is quite cumbersome. So we can recommend it with manageable sample sizes (<30 participants), but it is a huge time sink for big sample sizes.
 
 For a more comprehensive description of payments in Oxford, have a look [here](https://unioxfordnexus.sharepoint.com/:f:/s/ClinicalNeurosciences-OHBAOnlineExperiments/Eou5eA5Ro-5OgoBZSYHJZ2UBH9FarE6lxP7DkmZPbKJKrA?e=xQzXxm).
 
