@@ -73,7 +73,10 @@ All you need to do is [go to your repository on GitLab](https://online-ws.readth
 
 ![AddCollaborator](./img/AddCollaborator.PNG)
 
-## 2.4. More on version control / Git
+## 2.4. Change GitLab settings
+In the same `Settings` tab, as depicted above, you will find many adjustment opportunities. It is beyond the scope of this chapter to elaborate on all of these, but we want to highlight the ```General``` tab. Here you can change the privacy settings of your repository (study). Currently, it is set to `Private`, but you can change it to `Public` in case you want to share the code and data with everybody.
+
+## 2.5. More on version control / Git
 It can take some time until you get used to synchronizing your changes constantly with GitLab. At some point you will notice that you are essentially just repeating the same couple of steps again and again, but to be honest, only practice will really make you feel comfortable with version control.
 
 PsychoPy really makes things easy for you via the `Sync` button, but we can strongly encourage to spend half an hour on [Git/GitLab](https://docs.gitlab.com/ee/gitlab-basics/) and [how to deal with it](https://gist.github.com/m-kyle/fb0f3e9edc369adfcac7) (and [video tutorials](https://www.youtube.com/watch?v=Jt4Z1vwtXT0)). This will prove very helpful in cases where more troubleshooting is required.
