@@ -1,5 +1,5 @@
 # **Chapter 3: Collecting data and troubleshooting online studies**
-*Disclaimer: this chapter was made for the PsychoPy 2020.1 release -> screen shots and function names may differ* 
+*Disclaimer: this chapter was made for the PsychoPy 2020.1 release -> screen shots and function names may differ*
 
 We will use this chapter to make the transition from more abstract discussions to some actual *real-life* problems of online experimenting, by setting up an actual study and collecting real data.
 In this chapter, we will modify our Stroop task with the help of Python **and** JavaScript code. Subsequently, we will adjust the study to be compatible with recruitment via [Prolific](https://www.prolific.co/) and actually *collect* one data set.
@@ -115,10 +115,12 @@ To analyze the data, you can use your favorite scripting language. Here, we will
 
 The take home message from the script (in case you didn't go down this analysis rabbit hole) is that it seems like all the important variables are being logged and the data looks OK.
 
-# 2. Advertise your study on Prolific
+# 2. Advertise your study
 If we are happy with how the piloting worked out and have probably done a couple of additional pilot tests, we might feel ready to advertise our study to actual participants.
 
-## 2.1. Link your study to the Prolific ad
+## 2.1. Share study-link manually
+
+## 2.2. Advertise on marketplace (e.g. Prolific)
 Please refer back to ```Chapter 1, Section 1.4.3.``` if the following steps seem incomprehensible. There is also more information on this step available [here](https://psychopy.org/online/onlineParticipants.html).
 
 1.	Make sure you have an account (```Chapter 1, Section 1.4.3.```).
