@@ -104,7 +104,9 @@ stim_loc = getRndInteger(8,14)
 
 If you want to just play around with different JavaScript code snipplets and see what they do, we can recommend just using an [online JS editor](https://js.do/) in the beginning.
 
-## 1.4. Have a look at the data
+## 1.4. Troubleshooting the study online
+
+## 1.5. Have a look at the data
 Once we are happy with our design and have collected our first pilot data, it is a good idea to evaluate the data and also check if we are storing all necessary variables.
 
 First, we will need to collect the pilot data from the server. You can do this by simply syncing ![Sync](./img/Sync.PNG) your project, which will download all available data files to your local machine. Another way to get to the data is to download it directly from the [GitLab page of a/your project](https://gitlab.pavlovia.org/dejan.draschkow/onlineworkshopstroop/tree/master/data).
@@ -157,6 +159,6 @@ Please refer back to ```Chapter 1, Section 1.4.3.``` if the following steps seem
 ![Link Study to Prolific](./img/LinkToProlific9.PNG)
 
 ## 2.3. Collect data and evaluate results
-We can now collect the new data from the server. You can do this by simply syncing ![Sync](./img/Sync.PNG) your project, which will download all available data files to your local machine (see ```1.4.```).
+We can now collect the new data from the server. You can do this by simply syncing ![Sync](./img/Sync.PNG) your project, which will download all available data files to your local machine (see ```1.5.```).
 
 With this step you have just completed a full cycle in online experimentation. In the following chapters, we will explore more complex experimental designs and solve other real-life problems, but conceptually we have already covered all important mile stones for a successful transition to online testing.
