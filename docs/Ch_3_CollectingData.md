@@ -105,6 +105,26 @@ stim_loc = getRndInteger(8,14)
 If you want to just play around with different JavaScript code snipplets and see what they do, we can recommend just using an [online JS editor](https://js.do/) in the beginning.
 
 ## 1.4. Troubleshooting the study online
+When testing if your study is running smoothly online it is not very intuitive to know how exactly to debug and troubleshoot errors. You might find yourself stuck at a specific part of the experiment without getting helpful error messages from within the browser.
+
+A way to get a bit more control over the troubleshooting process is to open the inspector console of your browser. The way to get there, might vary between browsers.
+
+![Debug](./img/debug1.PNG)
+
+The console of your browser will reveal the contents of what you are trying to run and also hopefully shed some light on the source of the error. Lets introduce an error in our experiment and track it down using the browser console.
+
+Firs, we will introduce the error. Simply, change `$word` to `$words` in the target component of the trial routine.
+![Debug](./img/debug2.PNG)
+
+Now `Sync` ![Sync](./img/Sync.PNG) the project and give the commit a meaningful name, e.g. "add error to code". Note, that changes sometimes take a bit to be updated. Another important note is that you might want to clear your [browsers cache from time to time](https://kb.iu.edu/d/ahic). In order to be fast and efficient browsers often "remember" the last time you have visited a link and use this remembered information in order to preload the page.
+
+When you get to the landing page of your study (where you insert the participant information), open the inspector and switch to the Console tab.
+You will get to the Instructions page, as the bug we introduced, comes after that. But once you hit the space button your experiment will crash.
+![Debug](./img/debug3.PNG)
+
+In the Console, you will see the reason for this crash: `words is not defined`.
+
+Please, fix the typo and `Sync` ![Sync](./img/Sync.PNG) the project, before you continue with the chapter.
 
 ## 1.5. Have a look at the data
 Once we are happy with our design and have collected our first pilot data, it is a good idea to evaluate the data and also check if we are storing all necessary variables.
