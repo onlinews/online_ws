@@ -65,6 +65,13 @@ If we now ```Sync with web project``` ![Button](./img/Sync.PNG), we will have to
 You can see that your repository on the server was updated recently, and you can also click on the last commit message in order to see your commit history, that is the changes you have made to your files since you published the study.
 ![Button](./img/MakeStroopOnline9.PNG)
 
+## 2.3. Add collaborators to your study
+Maybe you want to work on this experiment with a colleague. Or at least make the data accessible to collaborators. You can easily add collaborators to your repository/study.
+All you need to do is [go to your repository on GitLab](https://online-ws.readthedocs.io/en/latest/Ch_2_RunFirstStudy/#2-editing-and-syncing-your-experiment), find the account of your colleague and decide on the specific access privileges you want to grant your collaborator.
+
+![AddCollaborator](./img/AddCollaborator.PNG)
+
+
 # 3. Download a study from Pavlovia
 Pavlovia has the nice feature of enabling the [sharing of experiments](https://pavlovia.org/explore) - with some more information [here](https://psychopy.org/online/usingPavlovia.html). On the one hand, it can help people to stop reinventing the wheel, and on the other hand, it can reward people who are sharing their experiments (so please click on the ```Star``` of repositories you like and use). Each of the studies [listed](https://pavlovia.org/explore) can be tested online. You can also see the code and the repository of these public studies.
 

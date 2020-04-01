@@ -156,9 +156,3 @@ Please refer back to ```Chapter 1, Section 1.4.3.``` if the following steps seem
 We can now collect the new data from the server. You can do this by simply syncing ![Sync](./img/Sync.PNG) your project, which will download all available data files to your local machine (see ```1.4.```).
 
 With this step you have just completed a full cycle in online experimentation. In the following chapters, we will explore more complex experimental designs and solve other real-life problems, but conceptually we have already covered all important mile stones for a successful transition to online testing.
-
-## 2.4. Add collaborators to your study
-Maybe you want to work on this experiment with a colleague. Or at least make the data accessible to collaborators. You can easily add collaborators to your repository/study.
-All you need to do is [go to your repository on GitLab](https://online-ws.readthedocs.io/en/latest/Ch_2_RunFirstStudy/#2-editing-and-syncing-your-experiment), find the account of your colleague and decide on the specific access privileges you want to grant your collaborator.
-
-![AddCollaborator](./img/AddCollaborator.PNG)
