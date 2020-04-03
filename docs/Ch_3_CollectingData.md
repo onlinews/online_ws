@@ -1,5 +1,5 @@
 # **Chapter 3: Collecting data and troubleshooting online studies**
-*Disclaimer: this chapter was made for the PsychoPy 2020.1 release -> screen shots and function names may differ*
+*Disclaimer: This chapter was made for the PsychoPy 2020.1 release. Screenshots and function names may differ if you are using a different version.*
 
 We will use this chapter to make the transition from more abstract discussions to some actual *real-life* problems of online experimenting, by setting up an actual study and collecting real data.
 In this chapter, we will modify our Stroop task with the help of Python **and** JavaScript code. Subsequently, we will adjust the study to be compatible with recruitment via [Prolific](https://www.prolific.co/) and actually *collect* one data set.
