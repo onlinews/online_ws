@@ -102,18 +102,19 @@ function getRndInteger(min, max) {
 stim_loc = getRndInteger(8,14)</code></pre>
 <p>If you want to just play around with different JavaScript code snipplets and see what they do, we can recommend just using an <a href="https://js.do/">online JS editor</a> in the beginning.</p>
 <h2 id="1-4-troubleshooting-the-study-online">1.4. Troubleshooting the study online</h2>
-<p>When testing if your study is running smoothly online it is not very intuitive to know how exactly to debug and troubleshoot errors. You might find yourself stuck at a specific part of the experiment without getting helpful error messages from within the browser.</p>
+<p>When testing if your study is running smoothly online, it is not very intuitive to know how exactly to debug and troubleshoot errors. You might find yourself stuck at a specific part of the experiment without getting helpful error messages from within the browser.</p>
 <p>A way to get a bit more control over the troubleshooting process is to open the inspector console of your browser. The way to get there, might vary between browsers.</p>
 <p><img src="./img/debug1.PNG" alt="Debug"></p>
-<p>The console of your browser will reveal the contents of what you are trying to run and also hopefully shed some light on the source of the error. Lets introduce an error in our experiment and track it down using the browser console.</p>
-<p>Firs, we will introduce the error. Simply, change <code>$word</code> to <code>$words</code> in the target component of the trial routine.
+<p>The console of your browser will reveal the contents of what you are trying to run and also hopefully shed some light on the source of the error. Let&apos;s introduce an error in our experiment and track it down using the browser console.</p>
+<p>First, we will introduce the error. Simply, change <code>$word</code> to <code>$words</code> in the target component of the trial routine.
 <img src="./img/debug2.PNG" alt="Debug"></p>
-<p>Now <code>Sync</code> <img src="./img/Sync.PNG" alt="Sync"> the project and give the commit a meaningful name, e.g. &quot;add error to code&quot;. Note, that changes sometimes take a bit to be updated. Another important note is that you might want to clear your <a href="https://kb.iu.edu/d/ahic">browsers cache from time to time</a>. In order to be fast and efficient browsers often &quot;remember&quot; the last time you have visited a link and use this remembered information in order to preload the page.</p>
-<p>When you get to the landing page of your study (where you insert the participant information), open the inspector and switch to the Console tab.
-You will get to the Instructions page, as the bug we introduced, comes after that. But once you hit the space button your experiment will crash.
+<p>Now <code>Sync</code> <img src="./img/Sync.PNG" alt="Sync"> the project and give the commit a meaningful name, e.g. &quot;add error to code&quot;.
+Note that changes sometimes take a while to be updated. Another important note is that you might want to clear your <a href="https://kb.iu.edu/d/ahic">browser&apos;s cache from time to time</a>. In order to be fast and efficient, browsers often &quot;remember&quot; the last time you have visited a link and use this remembered information in order to preload the page.</p>
+<p>When you get to the landing page of your study (where you insert the participant&apos;s information), open the inspector and switch to the Console tab.
+You will get to the Instructions page, as the bug we introduced comes after that. But once you hit the space button your experiment will crash.
 <img src="./img/debug3.PNG" alt="Debug"></p>
 <p>In the Console, you will see the reason for this crash: <code>words is not defined</code>.</p>
-<p>Please, fix the typo and <code>Sync</code> <img src="./img/Sync.PNG" alt="Sync"> the project, before you continue with the chapter.</p>
+<p>Please fix the typo and <code>Sync</code> <img src="./img/Sync.PNG" alt="Sync"> the project, before you continue with the chapter.</p>
 <h2 id="1-5-have-a-look-at-the-data">1.5. Have a look at the data</h2>
 <p>Once we are happy with our design and have collected our first pilot data, it is a good idea to evaluate the data and also check if we are storing all necessary variables.</p>
 <p>First, we will need to collect the pilot data from the server. You can do this by simply syncing <img src="./img/Sync.PNG" alt="Sync"> your project, which will download all available data files to your local machine. Another way to get to the data is to download it directly from the <a href="https://gitlab.pavlovia.org/dejan.draschkow/onlineworkshopstroop/tree/master/data">GitLab page of a/your project</a>.</p>
@@ -124,10 +125,10 @@ You will get to the Instructions page, as the bug we introduced, comes after tha
 <p>If we are happy with how the piloting worked out and have probably done a couple of additional pilot tests, we might feel ready to advertise our study to actual participants.</p>
 <h2 id="2-1-share-study-link-manually">2.1. Share study-link manually</h2>
 <p>As discussed previously, you can always simply share your study link. It is the one you will see in your browser after clicking the <code>Run</code> button in your Pavlovia dashboard.</p>
-<p>If we share the link to our study, as we find it in the browser, <code>https://run.pavlovia.org/dejan.draschkow/onlineworkshopstroop/html/</code>, there are degrees of freedom that we may or may not feel comfortable with.
+<p>If we share the link to our study as we find it in the browser (<code>https://run.pavlovia.org/dejan.draschkow/onlineworkshopstroop/html/</code>), there are degrees of freedom that we may or may not feel comfortable with.
 <img src="./img/share_link.PNG" alt="Link Study to Prolific"></p>
-<p>The participant we wish to send it to, will fill out the <code>participant</code> filed they way they feel comfortable with, and might also edit the pre-filled <code>sessions</code> field.</p>
-<p>But maybe we want to send them a link in which these fields are already pre-set by us. We can do so, using <a href="https://www.psychopy.org/online/onlineParticipants.html">Query strings</a>. Variables can be passed to the experiment using the URL (this is what recruitment services such as Prolific do automatically):</p>
+<p>The participant we wish to send it to, will fill out the <code>participant</code> field the way they feel comfortable with, and might also edit the pre-filled <code>sessions</code> field.</p>
+<p>But maybe we want to send them a link in which these fields are already pre-set by us. We can do so using <a href="https://www.psychopy.org/online/onlineParticipants.html">Query strings</a>. Variables can be passed to the experiment using the URL (this is what recruitment services such as Prolific do automatically):</p>
 <pre><code>https://run.pavlovia.org/dejan.draschkow/onlineworkshopstroop/html/?participant=14</code></pre><p>In this example, the <code>participant</code> variable will be pre-set to 14, and the data file generated by the experiment will have <em>14</em> populating the column <em>participant</em>.</p>
 <p>Have a look <a href="https://www.psychopy.org/online/onlineParticipants.html">here</a> for more information on query strings.</p>
 <h2 id="2-2-advertise-on-marketplace-e-g-prolific-">2.2. Advertise on marketplace (e.g. Prolific)</h2>
