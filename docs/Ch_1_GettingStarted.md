@@ -134,19 +134,7 @@ In the following chapters we will advertise our study via Prolific, thus we will
 
 5. Save the study **as a draft**.
 
-
-In case you want to follow the subsequent chapters beat by beat, please create a study with the following specifications. But this is not so critical. **The important thing is that you somehow have a bit of money on your prolific account.**
-
-```
-1. Call your study "Bell or dog? DD"  - with your initials after the question mark.
-
-2. You can insert any URL in the "URL of your study" section,
-   it's not important - we will change this later on.
-
-3. In the study set-up say that you want to recruit 3 participants,
-   and the study will take 45mins and you want to pay 5 pounds,
-   this should result in a cost of 21 pounds.
-```
+**In case you want to follow the subsequent chapters beat by beat, please make sure that you somehow have a bit of money on your prolific account.**
 
 #### 1.4.3.2. Paying for studies via Prolific
 For a more comprehensive description of payments in Prolific, have a look [here](https://unioxfordnexus.sharepoint.com/:f:/s/ClinicalNeurosciences-OHBAOnlineExperiments/Eou5eA5Ro-5OgoBZSYHJZ2UBH9FarE6lxP7DkmZPbKJKrA?e=xQzXxm).
