@@ -70,7 +70,7 @@ After creating your study and finding an appropriate hosting service for it, you
 * **3.** After fixing all issues and analyzing the pilot data from these “safer” avenues (1 and 2), you can start testing your study on SONA, Prolific, Mturk or whatever other recruiting platform you have chosen. Probably good to test in batches - e.g. if you want to test 100 participants, test in 3 batches of 33 people - so you can make sure everything is going fine in reasonable intervals and resources don't go to waste.
 
 ### 1.4.1. Manually share link
- You could essentially start sharing the study-link directly with participants. Albeit very inefficient and error-prone on a mass-scale (as it also requires dealing with monetary compensation manually), this is actually a great way to pilot your online study once it is ready (see **1.** above).
+ You could essentially start sharing the study-link directly with participants. Albeit very inefficient and error-prone on a mass-scale (as it also requires dealing with monetary compensation manually), this is actually a great way to pilot your online study once it is ready (see **1.** above and [Chapter 3, Section 2.1.](https://online-ws.readthedocs.io/en/latest/Ch_3_CollectingData/#21-share-study-link-manually) for more information).
 
 ### 1.4.2. In-house recruiting system (e.g. SONA)
 Advertising and recruiting for a study via [SONA Experimental Psychology](https://opr.sona-systems.com) or the in-house recruiting system of your university, is extremely similar to the way you do it for in-lab studies. We will give a quick step-by-step example using SONA.
