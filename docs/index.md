@@ -27,7 +27,7 @@ We hope that [this figure](https://online-ws.readthedocs.io/en/latest/Ch_1_Getti
 Currently, the practical emphasis (Chapters 2 & 3) of our resource is focused on implementing online studies within the [PsychoPy](https://psychopy.org/)/[Pavlovia](https://pavlovia.org/docs/home/about) ecosystem. With recruitment being performed in [SONA](https://opr.sona-systems.com) and [Prolific](https://www.prolific.co/); and ethical approval being obtained from [MS IDREC](https://researchsupport.admin.ox.ac.uk/governance/ethics/committees/msidrec). We aim at gradually covering alternative options, but the emphasis on this ecosystem will likely not change. Because we love [PsychoPy](https://psychopy.org/)/[Pavlovia](https://pavlovia.org/docs/home/about).
 
 # A short introductory read
-Before embarking on the chapters in this resource, we recommend reading this [short introductory paper](https://doi.org/10.31234/osf.io/tr76d) ([Sauter, Draschkow, & Mack, 2020](https://doi.org/10.31234/osf.io/tr76d)). We hope that this will provide a brief overview of basic concepts, as well as outline the different software solutions available to researchers.
+Before embarking on the chapters in this resource, we recommend reading this [short introductory paper](https://www.mdpi.com/2076-3425/10/4/251) ([Sauter, Draschkow, & Mack, 2020](https://www.mdpi.com/2076-3425/10/4/251)). We hope that this will provide a brief overview of basic concepts, as well as outline the different software solutions available to researchers.
 
 
 <!DOCTYPE html>
@@ -49,7 +49,11 @@ Before embarking on the chapters in this resource, we recommend reading this [sh
 
 **Maintainers**: Melvin Kallmayer | Leila Zacharias | Dejan Draschkow
 
-**Citation**: Kallmayer, M., Zacharias, L., Nobre, A.C., & Draschkow, D. (2020). *Introduction to Online Experiments*. [https://doi.org/10.17605/OSF.IO/XFWHB](https://doi.org/10.17605/OSF.IO/XFWHB)
+**Citations**: 
+
+Kallmayer, M., Zacharias, L., Nobre, A.C., & Draschkow, D. (2020). *Introduction to Online Experiments*. [https://doi.org/10.17605/OSF.IO/XFWHB](https://doi.org/10.17605/OSF.IO/XFWHB)
+
+Sauter, M., Draschkow, D., & Mack, W. (2020). Building, Hosting and Recruiting: A Brief Introduction to Running Behavioral Experiments Online. Brain Sciences, Vol. 10, Page 251, 10(4), 251. [https://doi.org/10.3390/BRAINSCI10040251](https://doi.org/10.3390/BRAINSCI10040251)
 
 --------
 Please let us know in case you want to contribute, on the [GitHub repository which supports this website](https://github.com/mkallmayer/online_ws/tree/master/docs).
