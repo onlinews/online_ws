@@ -51,7 +51,7 @@ Pavlovia is nothing short of incredible (you will notice that we get emotional q
 
 * It interacts well with participant recruitment systems (e.g. SONA, [Testable Minds](https://minds.testable.org/), Mturk or Prolific).
 
-* It can host experiments created in PsychoPy, jsPsych, or lab.js.
+* It can host experiments created in PsychoPy, jsPsych, or lab.js. [click here for instructions](https://pavlovia.org/docs/experiments/create-jsPsych)
 
 ### 1.3.1. Create a Pavlovia account
 In case you aim at following the subsequent chapters, please register for a [Pavlovia](https://pavlovia.org/) account. You should use your ```ox.ac.uk``` email address in order to get access to the *unlimited license*.
