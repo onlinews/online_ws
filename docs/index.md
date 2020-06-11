@@ -7,7 +7,9 @@ The content in this resource is of general relevance, but the specific examples 
 
 ## Various upcoming workshops/conferences (that we know about)
 *June 30th*: https://pushkin-consortium.github.io/movingresearchonline/
+
 *June 30th*: https://twitter.com/GorillaPsyc/status/1262664234695036928
+
 *Sep 2020*: https://twitter.com/psychopy/status/1265315005236314117
 
 # What do I need to know before getting started?
