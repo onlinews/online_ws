@@ -5,6 +5,11 @@ Welcome to **Introduction to Online Experiments**, prepared by the [Brain & Cogn
 
 The content in this resource is of general relevance, but the specific examples in Chapter 1 are strongly tailored to the [University of Oxford](http://www.ox.ac.uk/), specifically the Departments of [Experimental Psychology](https://www.psy.ox.ac.uk/) and [Psychiatry](https://www.psych.ox.ac.uk/). If you are a member of these Departments, you can follow the steps essentially beat by beat (and also [find people with relevant expertise](https://unioxfordnexus.sharepoint.com/:f:/s/ClinicalNeurosciences-OHBAOnlineExperiments/En4FGfw7n-xCmPNXx1L4h_gB7iz3jwwcjRBXecBAlnTdaQ?e=vKTHW7)). If you are a visitor from a different department, university or country, you will sometimes need to find solutions which are a bit more specific to your current environment. However, the specific example cases are quite rare in our resource and usually pertain to some form of administrative task (mostly Chapter 1). Thus, the majority of the content here should be of relevance to anybody interested in embarking on the road to online experimentation.
 
+## Various upcoming workshops/conferences (that we know about)
+*June 30th*: https://pushkin-consortium.github.io/movingresearchonline/
+*June 30th*: https://twitter.com/GorillaPsyc/status/1262664234695036928
+*Sep 2020*: https://twitter.com/psychopy/status/1265315005236314117
+
 # What do I need to know before getting started?
 This [landing](https://online-ws.readthedocs.io/en/latest/) page, as well as [Chapter 1](https://online-ws.readthedocs.io/en/latest/Ch_1_GettingStarted/) cover most of the basics necessary to feel comfortable with the *nomenclature of* and *concepts in* online experimentation. This includes:
 
