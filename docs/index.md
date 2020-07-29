@@ -40,7 +40,7 @@ Before embarking on the chapters in this resource, we recommend reading this [sh
 <!DOCTYPE html>
 <html>
     <body>
-        <iframe src="https://docs.google.com/gview?url=https://www.draschkow.com/app/download/2849253/SauterDraschkowMack_PrePrint.pdf&embedded=true"
+        <iframe src="https://docs.google.com/gview?url=https://www.mdpi.com/2076-3425/10/4/251/pdf&embedded=true"
         style="width: 90%; height: 1000px">
             <p>Your browser does not support iframes.</p>
         </iframe>
