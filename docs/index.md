@@ -6,6 +6,8 @@ Welcome to **Introduction to Online Experiments**, prepared by the [Brain & Cogn
 The content in this resource is of general relevance, but the specific examples in Chapter 1 are strongly tailored to the [University of Oxford](http://www.ox.ac.uk/), specifically the Departments of [Experimental Psychology](https://www.psy.ox.ac.uk/) and [Psychiatry](https://www.psych.ox.ac.uk/). If you are a member of these Departments, you can follow the steps essentially beat by beat (and also [find people with relevant expertise](https://unioxfordnexus.sharepoint.com/:f:/s/ClinicalNeurosciences-OHBAOnlineExperiments/En4FGfw7n-xCmPNXx1L4h_gB7iz3jwwcjRBXecBAlnTdaQ?e=vKTHW7)). If you are a visitor from a different department, university or country, you will sometimes need to find solutions which are a bit more specific to your current environment. However, the specific example cases are quite rare in our resource and usually pertain to some form of administrative task (mostly Chapter 1). Thus, the majority of the content here should be of relevance to anybody interested in embarking on the road to online experimentation.
 
 ### Various upcoming workshops/conferences (that we know about)
+*recording*: [https://www.osa.org/en-us/meetings/webinar/2020/august/osa_technical_group_special_webinar_display_calibr/](https://www.osa.org/en-us/meetings/webinar/2020/august/osa_technical_group_special_webinar_display_calibr/)
+
 *June 30th*: [https://pushkin-consortium.github.io/movingresearchonline/](https://pushkin-consortium.github.io/movingresearchonline/)
 
 *June 30th*: [https://twitter.com/GorillaPsyc/status/1262664234695036928](https://twitter.com/GorillaPsyc/status/1262664234695036928)
@@ -33,9 +35,10 @@ We hope that [this figure](https://online-ws.readthedocs.io/en/latest/Ch_1_Getti
 
 Currently, the practical emphasis (Chapters 2 & 3) of our resource is focused on implementing online studies within the [PsychoPy](https://psychopy.org/)/[Pavlovia](https://pavlovia.org/docs/home/about) ecosystem. With recruitment being performed in [SONA](https://opr.sona-systems.com) and [Prolific](https://www.prolific.co/); and ethical approval being obtained from [MS IDREC](https://researchsupport.admin.ox.ac.uk/governance/ethics/committees/msidrec). We aim at gradually covering alternative options, but the emphasis on this ecosystem will likely not change. Because we love [PsychoPy](https://psychopy.org/)/[Pavlovia](https://pavlovia.org/docs/home/about).
 
-# A short introductory read
+# A short introductory read and talk
 Before embarking on the chapters in this resource, we recommend reading this [short introductory paper](https://www.mdpi.com/2076-3425/10/4/251) ([Sauter, Draschkow, & Mack, 2020](https://www.mdpi.com/2076-3425/10/4/251)). We hope that this will provide a brief overview of basic concepts, as well as outline the different software solutions available to researchers.
 
+You can also have a look at [our talk](https://www.osa.org/en-us/meetings/webinar/2020/august/osa_technical_group_special_webinar_display_calibr/) which summarizes some of these resources. The entire webinar is very interesting and our talk starts at 31min and 30sec. 
 
 <!DOCTYPE html>
 <html>
