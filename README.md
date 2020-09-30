@@ -11,8 +11,8 @@ The content in this resource is of general relevance, but the specific examples 
 
 ### References
 
-Kallmayer, M., Zacharias, L., Nobre, A.C., & Draschkow, D. (2020). *Introduction to Online Experiments*. [https://doi.org/10.17605/OSF.IO/XFWHB](https://doi.org/10.17605/OSF.IO/XFWHB)
+Kallmayer, M., Zacharias, L., Nobre, A.C., & Draschkow, D. (2020). Introduction to Online Experiments. [https://doi.org/10.17605/OSF.IO/XFWHB](https://doi.org/10.17605/OSF.IO/XFWHB)
 
-Sauter, M., Draschkow, D., & Mack, W. (2020). Building, Hosting and Recruiting: A Brief Introduction to Running Behavioral Experiments Online. Brain Sciences, Vol. 10, Page 251, 10(4), 251. [https://doi.org/10.3390/BRAINSCI10040251](https://doi.org/10.3390/BRAINSCI10040251)
+Sauter, M., Draschkow, D., & Mack, W. (2020). Building, Hosting and Recruiting: A Brief Introduction to Running Behavioral Experiments Online. *Brain Sciences*, Vol. 10, Page 251, 10(4), 251. [https://doi.org/10.3390/BRAINSCI10040251](https://doi.org/10.3390/BRAINSCI10040251)
 
 Link To Resource: https://online-ws.readthedocs.io/en/latest/

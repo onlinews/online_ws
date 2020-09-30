@@ -38,7 +38,7 @@ Currently, the practical emphasis (Chapters 2 & 3) of our resource is focused on
 # A short introductory read and talk
 Before embarking on the chapters in this resource, we recommend reading this [short introductory paper](https://www.mdpi.com/2076-3425/10/4/251) ([Sauter, Draschkow, & Mack, 2020](https://www.mdpi.com/2076-3425/10/4/251)). We hope that this will provide a brief overview of basic concepts, as well as outline the different software solutions available to researchers.
 
-You can also have a look at [our talk](https://www.osa.org/en-us/meetings/webinar/2020/august/osa_technical_group_special_webinar_display_calibr/) which summarizes some of these resources. The entire webinar is very interesting and our talk starts at 31min and 30sec. 
+You can also have a look at [our talk](https://www.osa.org/en-us/meetings/webinar/2020/august/osa_technical_group_special_webinar_display_calibr/) which summarizes some of these resources. The entire webinar is very interesting and our talk starts at 31min and 30sec.
 
 <!DOCTYPE html>
 <html>
@@ -59,11 +59,11 @@ You can also have a look at [our talk](https://www.osa.org/en-us/meetings/webina
 
 **Maintainers**: Melvin Kallmayer | Leila Zacharias | Dejan Draschkow
 
-**Citations**: 
+**Citations**:
 
-Kallmayer, M., Zacharias, L., Nobre, A.C., & Draschkow, D. (2020). *Introduction to Online Experiments*. [https://doi.org/10.17605/OSF.IO/XFWHB](https://doi.org/10.17605/OSF.IO/XFWHB)
+Kallmayer, M., Zacharias, L., Nobre, A.C., & Draschkow, D. (2020). Introduction to Online Experiments. [https://doi.org/10.17605/OSF.IO/XFWHB](https://doi.org/10.17605/OSF.IO/XFWHB)
 
-Sauter, M., Draschkow, D., & Mack, W. (2020). Building, Hosting and Recruiting: A Brief Introduction to Running Behavioral Experiments Online. Brain Sciences, Vol. 10, Page 251, 10(4), 251. [https://doi.org/10.3390/BRAINSCI10040251](https://doi.org/10.3390/BRAINSCI10040251)
+Sauter, M., Draschkow, D., & Mack, W. (2020). Building, Hosting and Recruiting: A Brief Introduction to Running Behavioral Experiments Online. *Brain Sciences*, Vol. 10, Page 251, 10(4), 251. [https://doi.org/10.3390/BRAINSCI10040251](https://doi.org/10.3390/BRAINSCI10040251)
 
 --------
 Please let us know in case you want to contribute, on the [GitHub repository which supports this website](https://github.com/mkallmayer/online_ws/tree/master/docs).
