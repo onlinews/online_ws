@@ -128,8 +128,10 @@ In the following chapters we will advertise our study via Prolific, thus we will
 
 2. Next, you need to create/add a new study on Prolific.  Give the study a meaningful name - this is important as you will use it to claim participant money from the financial department of Experimental Psychology or Psychiatry. For the rest you can add placeholder information/links – these you can change at any time in the future. These fields are irrelevant at this stage.
 
+![Create Online Study in Prolific](./img/Prolific-Screenshot1.png)
 3. Under Study Link, this is where you will insert a link to your study on Pavlovia (or Gorilla etc). For now, it can be a filler website. Below this, you then need to select how you want to record participant IDs, if at all i.e. will you have participants enter their own ID, or do you want them automatically generated. Instructions will appear when you click on this option. 
 
+![Create Online Study in Prolific](./img/Prolific-Screenshot2.png)
 4. Under Study Completion, this is where you set up how Prolific knows who finished the task and how long it took them. You can either have participants be redirected back to Prolific using URL (a link will be automatically generated for you by Prolific if you select this option), or you can give participants a completion code to manually enter at the end. 
 
 5. When you create a new study, you need to enter **(1)** how many participants you want to recruit, and **(2)** the amount you want to reward to each participant as stated in your [ethics](https://online-ws.readthedocs.io/en/latest/Ch_1_GettingStarted/#2-ethics). Please note, Prolific charges 33% of your reimbursement fee for use of their platform - once you enter these details, you will see a quote for the estimated cost for the study, including this charge and VAT. 
