@@ -55,9 +55,8 @@ You can also have a look at [our talk](https://www.osa.org/en-us/meetings/webina
 
 # Contributors
 
-**Editors**: Melvin Kallmayer | Leila Zacharias | Dejan Draschkow
+Melvin Kallmayer | Leila Zacharias | Amy Gillespie | Paula Kaanders | Dejan Draschkow
 
-**Maintainers**: Melvin Kallmayer | Leila Zacharias | Dejan Draschkow
 
 **Citations**:
 
