@@ -138,6 +138,8 @@ To analyze the data, you can use your favorite scripting language. Here, we will
 
 The take home message from the script (in case you didn't go down this analysis rabbit hole) is that it seems like all the important variables are being logged and the data looks OK.
 
+It is also worth thinking about how you can be confident that participants have stayed engaged during your study. You may want to determine some parameters from task performance that will be useful, based on your pilot data. You may also want to include attention check questions or task understanding questions. 
+
 # 2. Advertise your study
 If we are happy with how the piloting worked out and have probably done a couple of additional pilot tests, we might feel ready to advertise our study to actual participants.
 
@@ -189,14 +191,16 @@ Prolific allows you to tailor who will see your study, in a number of useful way
 1. Go to your ```Unpublished``` studies, select the one you want to publish and hit the ```Publish ``` button.
 ![Link Study to Prolific](./img/LinkToProlific6.PNG)
 
-2. Now, you can ```Start ``` recruitment.
+2. Now, you can ```Start ``` recruitment. You can increase your places gradually, which may be particularly advisable with a large sample (100+ participants). 
 ![Link Study to Prolific](./img/LinkToProlific7.PNG)
 
 3. Prolific will keep you up to date about current and past participation.
 ![Link Study to Prolific](./img/LinkToProlific8.PNG)
 
-4. Once a participant is done, you will have to Review the status: either ```Approve``` or ```Reject```. This decision should likely be based on the participant's performance. If the participant's performance indicates that they have not actually done the task, then it might be justified to ```Reject```. Make sure to set objective criteria which would lead to a rejection and make these transparent to the participants.
+4. Once a participant is done, you will have to Review the status: either ```Approve``` or ```Reject```. This decision should likely be based on the participant's performance. If the participant's performance indicates that they have not actually done the task, then it might be justified to ```Reject```; Prolific provides [guidance](https://researcher-help.prolific.co/hc/en-gb/articles/360009092394-Reviewing-submissions-How-do-I-decide-who-to-accept-reject-) on how to make these decisions. Make sure to set objective criteria which would lead to a rejection and make these transparent to the participants in the study description and in the Participant Information sheet. If they have had technical problems or decided to withdraw, they will usually opt to "Return" their submission - Prolific encourages you to [allow participants to return submissions](https://researcher-help.prolific.co/hc/en-gb/articles/360014583000-Return-vs-Reject-When-should-I-ask-a-participant-to-return-their-submission-) where participants have withdrawn consent or had technical problems. [Partial payments](https://researcher-help.prolific.co/hc/en-gb/articles/360009221013-Partial-payments) are also an option. If you have a large study, you may want to approve large numbers of participants at a time - if you select the menu under "More" you have the option to "Approve by upload" which allows you to include a list of participants IDs to approve payment for (this could be copied from a column in data file). 
 ![Link Study to Prolific](./img/LinkToProlific9.PNG)
+
+5. You may want to communicate with all/a subgroup of your participants by sending a mass message - this can be useful for sending a thank you message to everyone after the study has finished, explaining about follow up visits, contacting people who've had technical issues and may want another chance to complete the study etc. To do so, you can select the menu under "More", click "Bulk message" and then you can include a list of IDs and a message for everyone. For longitudinal studies, thanking and updating participants is particularly important for engaging and retaining your sample; many are really interested in how their data gets used. You may be pleasantly surprised at the replies you get!  
 
 ## 2.3. Collect data and evaluate results
 We can now collect the new data from the server. You can do this by simply syncing ![Sync](./img/Sync.PNG) your project, which will download all available data files to your local machine (see ```1.5.```).
