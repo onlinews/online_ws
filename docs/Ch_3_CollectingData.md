@@ -196,6 +196,9 @@ Please refer back to ```Chapter 1, Section 1.4.3.``` if the following steps seem
 4. Once a participant is done, you will have to Review the status: either ```Approve``` or ```Reject```. This decision should likely be based on the participant's performance. If the participant's performance indicates that they have not actually done the task, then it might be justified to ```Reject```. Make sure to set objective criteria which would lead to a rejection and make these transparent to the participants.
 ![Link Study to Prolific](./img/LinkToProlific9.PNG)
 
+5. Once you have collected the number of participants you set out to collect, your study is completed. You can now find it under 'Completed' studies rather than 'Active' studies on the left side of your Prolific dashboard. Under the ```Action``` button next to your completed study you can download a summary of your study by clicking ```Download summary```. In this summary, you'll find a list of all your participants with their Prolific IDs and how much each of them was paid.
+![Link Study to Prolific](./img/Prolific-Screenshot3.PNG)
+
 ## 2.3. Collect data and evaluate results
 We can now collect the new data from the server. You can do this by simply syncing ![Sync](./img/Sync.PNG) your project, which will download all available data files to your local machine (see ```1.5.```).
 
