@@ -202,6 +202,9 @@ Prolific allows you to tailor who will see your study, in a number of useful way
 
 5. You may want to communicate with all/a subgroup of your participants by sending a mass message - this can be useful for sending a thank you message to everyone after the study has finished, explaining about follow up visits, contacting people who've had technical issues and may want another chance to complete the study etc. To do so, you can select the menu under "More", click "Bulk message" and then you can include a list of IDs and a message for everyone. For longitudinal studies, thanking and updating participants is particularly important for engaging and retaining your sample; many are really interested in how their data gets used. You may be pleasantly surprised at the replies you get!  
 
+6. Once you have collected the number of participants you set out to collect, your study is completed. You can now find it under 'Completed' studies rather than 'Active' studies on the left side of your Prolific dashboard. Under the ```Action``` button next to your completed study you can download a summary of your study by clicking ```Download summary```. In this summary, you'll find a list of all your participants with their Prolific IDs and how much each of them was paid.
+![Link Study to Prolific](./img/Prolific-Screenshot3.PNG)
+
 ## 2.3. Collect data and evaluate results
 We can now collect the new data from the server. You can do this by simply syncing ![Sync](./img/Sync.PNG) your project, which will download all available data files to your local machine (see ```1.5.```).
 
