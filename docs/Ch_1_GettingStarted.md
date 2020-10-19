@@ -127,14 +127,15 @@ In the following chapters we will advertise our study via Prolific, thus we will
 1. After creating an account, add a VAT number via the ACCOUNT tab of Prolific. The universal Oxford University VAT number is ```GB125506730```. This will make payment claims much easier in the future.
 
 2. Next, you need to create/add a new study on Prolific.  Give the study a meaningful name - this is important as you will use it to claim participant money from the financial department of Experimental Psychology or Psychiatry. For the rest you can add placeholder information/links – these you can change at any time in the future. These fields are irrelevant at this stage.
-![Create Online Study in Prolific](./img/ProlificNewStudy1.PNG)
 
-3. Note the two fields marked in yellow. The first one shows the study link. You will insert this link into your PsychoPy experiments. It redirects the participants back to Prolific when they are done with the experiment. This is how Prolific knows who finished the task and how long it took them. 
+3. Under Study Link, this is where you will insert a link to your study on Pavlovia (or Gorilla etc). For now, it can be a filler website. Below this, you then need to select how you want to record participant IDs, if at all i.e. will you have participants enter their own ID, or do you want them automatically generated. Instructions will appear when you click on this option. 
 
-4. When you create a new study, you need to enter **(1)** how many participants you want to recruit, and **(2)** the amount you want to reward to each participant as stated in your [ethics](https://online-ws.readthedocs.io/en/latest/Ch_1_GettingStarted/#2-ethics). Please note, Prolific charges 33% of your reimbursement fee for use of their platform - once you enter these details, you will see a quote for the estimated cost for the study, including this charge and VAT. 
+4. Under Study Completion, this is where you set up how Prolific knows who finished the task and how long it took them. You can either have participants be redirected back to Prolific using URL (a link will be automatically generated for you by Prolific if you select this option), or you can give participants a completion code to manually enter at the end. 
+
+5. When you create a new study, you need to enter **(1)** how many participants you want to recruit, and **(2)** the amount you want to reward to each participant as stated in your [ethics](https://online-ws.readthedocs.io/en/latest/Ch_1_GettingStarted/#2-ethics). Please note, Prolific charges 33% of your reimbursement fee for use of their platform - once you enter these details, you will see a quote for the estimated cost for the study, including this charge and VAT. 
 ![Create Online Study in Prolific](./img/ProlificNewStudy2.PNG)
 
-5. Save the study **as a draft**. 
+6. Save the study **as a draft**. 
 
 **In case you want to follow the subsequent chapters beat by beat, please make sure that you somehow have a bit of money on your prolific account.**
 
