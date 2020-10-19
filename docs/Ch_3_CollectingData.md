@@ -138,6 +138,8 @@ To analyze the data, you can use your favorite scripting language. Here, we will
 
 The take home message from the script (in case you didn't go down this analysis rabbit hole) is that it seems like all the important variables are being logged and the data looks OK.
 
+It is also worth thinking about how you can be confident that participants have stayed engaged during your study. You may want to determine some parameters from task performance that will be useful, based on your pilot data. You may also want to include attention check questions or task understanding questions. 
+
 # 2. Advertise your study
 If we are happy with how the piloting worked out and have probably done a couple of additional pilot tests, we might feel ready to advertise our study to actual participants.
 
@@ -175,7 +177,9 @@ Please refer back to ```Chapter 1, Section 1.4.3.``` if the following steps seem
 
 5. Don't forget to sync these changes to your experiment ![Sync](./img/Sync.PNG).
 
-6. You can sub-select participants according to various criteria. Here, we simply chose everybody who is using a Desktop browser. But it makes sense to explore the different ways of defining the sample you would like (e.g. exclude participants who have completed previous experiments; age groups; language; etc.).
+6. Think about who you want to invite to your study.
+
+Prolific allows you to tailor who will see your study, in a number of useful ways. Firstly, you can select for Prolific to recruit you a [representative sample](https://researcher-help.prolific.co/hc/en-gb/articles/360019236753-Representative-Samples-on-Prolific). Secondly, you can apply custom pre-screening. This may include screening for participants who meet certain demographic criteria (e.g. women over 50 in the UK), who are in a group of particular interest to you (e.g. people who have disclosed a specific medical condition), who meet certain criteria regarding participation on Prolific (e.g. those who have submitted above or below a certain number of previous studies on Prolific), or using a custom-screener. This final option allows you to specifically invite particular Prolific users by their id (typically when you want to do a follow-up visit in a longitudinal study), or prevent certain Prolific users from being invited (typically when you want to exclude people who have taken part in a similar study, to prevent practice effects etc). You can combine any of these pre-screening options. You may also want to determine which devices can be used to complete your study, choosing out of "mobile", "tablet" and "desktop" - this is particularly important if your tasks are designed for a specific format (e.g. they require a laptop or desktop keyboard). 
 ![Link Study to Prolific](./img/LinkToProlific4.PNG)
 
 7. We will just recruit one participant for this very quick study - spend 1 pound on it.
@@ -187,16 +191,18 @@ Please refer back to ```Chapter 1, Section 1.4.3.``` if the following steps seem
 1. Go to your ```Unpublished``` studies, select the one you want to publish and hit the ```Publish ``` button.
 ![Link Study to Prolific](./img/LinkToProlific6.PNG)
 
-2. Now, you can ```Start ``` recruitment.
+2. Now, you can ```Start ``` recruitment. You can increase your places gradually, which may be particularly advisable with a large sample (100+ participants). 
 ![Link Study to Prolific](./img/LinkToProlific7.PNG)
 
 3. Prolific will keep you up to date about current and past participation.
 ![Link Study to Prolific](./img/LinkToProlific8.PNG)
 
-4. Once a participant is done, you will have to Review the status: either ```Approve``` or ```Reject```. This decision should likely be based on the participant's performance. If the participant's performance indicates that they have not actually done the task, then it might be justified to ```Reject```. Make sure to set objective criteria which would lead to a rejection and make these transparent to the participants.
+4. Once a participant is done, you will have to Review the status: either ```Approve``` or ```Reject```. This decision should likely be based on the participant's performance. If the participant's performance indicates that they have not actually done the task, then it might be justified to ```Reject```; Prolific provides [guidance](https://researcher-help.prolific.co/hc/en-gb/articles/360009092394-Reviewing-submissions-How-do-I-decide-who-to-accept-reject-) on how to make these decisions. Make sure to set objective criteria which would lead to a rejection and make these transparent to the participants in the study description and in the Participant Information sheet. If they have had technical problems or decided to withdraw, they will usually opt to "Return" their submission - Prolific encourages you to [allow participants to return submissions](https://researcher-help.prolific.co/hc/en-gb/articles/360014583000-Return-vs-Reject-When-should-I-ask-a-participant-to-return-their-submission-) where participants have withdrawn consent or had technical problems. [Partial payments](https://researcher-help.prolific.co/hc/en-gb/articles/360009221013-Partial-payments) are also an option. If you have a large study, you may want to approve large numbers of participants at a time - if you select the menu under "More" you have the option to "Approve by upload" which allows you to include a list of participants IDs to approve payment for (this could be copied from a column in data file). 
 ![Link Study to Prolific](./img/LinkToProlific9.PNG)
 
-5. Once you have collected the number of participants you set out to collect, your study is completed. You can now find it under 'Completed' studies rather than 'Active' studies on the left side of your Prolific dashboard. Under the ```Action``` button next to your completed study you can download a summary of your study by clicking ```Download summary```. In this summary, you'll find a list of all your participants with their Prolific IDs and how much each of them was paid.
+5. You may want to communicate with all/a subgroup of your participants by sending a mass message - this can be useful for sending a thank you message to everyone after the study has finished, explaining about follow up visits, contacting people who've had technical issues and may want another chance to complete the study etc. To do so, you can select the menu under "More", click "Bulk message" and then you can include a list of IDs and a message for everyone. For longitudinal studies, thanking and updating participants is particularly important for engaging and retaining your sample; many are really interested in how their data gets used. You may be pleasantly surprised at the replies you get!  
+
+6. Once you have collected the number of participants you set out to collect, your study is completed. You can now find it under 'Completed' studies rather than 'Active' studies on the left side of your Prolific dashboard. Under the ```Action``` button next to your completed study you can download a summary of your study by clicking ```Download summary```. In this summary, you'll find a list of all your participants with their Prolific IDs and how much each of them was paid.
 ![Link Study to Prolific](./img/Prolific-Screenshot3.PNG)
 
 ## 2.3. Collect data and evaluate results
