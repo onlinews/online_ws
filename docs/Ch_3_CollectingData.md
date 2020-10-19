@@ -175,7 +175,9 @@ Please refer back to ```Chapter 1, Section 1.4.3.``` if the following steps seem
 
 5. Don't forget to sync these changes to your experiment ![Sync](./img/Sync.PNG).
 
-6. You can sub-select participants according to various criteria. Here, we simply chose everybody who is using a Desktop browser. But it makes sense to explore the different ways of defining the sample you would like (e.g. exclude participants who have completed previous experiments; age groups; language; etc.).
+6. Think about who you want to invite to your study.
+
+Prolific allows you to tailor who will see your study, in a number of useful ways. Firstly, you can select for Prolific to recruit you a [representative sample](https://researcher-help.prolific.co/hc/en-gb/articles/360019236753-Representative-Samples-on-Prolific). Secondly, you can apply custom pre-screening. This may include screening for participants who meet certain demographic criteria (e.g. women over 50 in the UK), who are in a group of particular interest to you (e.g. people who have disclosed a specific medical condition), who meet certain criteria regarding participation on Prolific (e.g. those who have submitted above or below a certain number of previous studies on Prolific), or using a custom-screener. This final option allows you to specifically invite particular Prolific users by their id (typically when you want to do a follow-up visit in a longitudinal study), or prevent certain Prolific users from being invited (typically when you want to exclude people who have taken part in a similar study, to prevent practice effects etc). You can combine any of these pre-screening options. You may also want to determine which devices can be used to complete your study, choosing out of "mobile", "tablet" and "desktop" - this is particularly important if your tasks are designed for a specific format (e.g. they require a laptop or desktop keyboard). 
 ![Link Study to Prolific](./img/LinkToProlific4.PNG)
 
 7. We will just recruit one participant for this very quick study - spend 1 pound on it.
