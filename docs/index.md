@@ -1,4 +1,6 @@
-![logo](./img/ep_logo.png) Introduction to Online Experiments  ![logo](./img/win_logo.png) ![logo](./img/uniOx_logo.png)
+Introduction to Online Experiments
+![logo](./img/ep_logo.png) ![logo](./img/win_logo.png) ![logo](./img/uniOx_logo.png)
+
 --------
 
 Welcome to **Introduction to Online Experiments**, prepared by the [Brain & Cognition Lab](http://www.brainandcognition.org/). In this resource, we collate important information about online testing, and provide step-by-step guides for a successful transition to online experimentation.
