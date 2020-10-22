@@ -1,4 +1,4 @@
-![logo](./img/ep_logo.png) Introduction to Online Experiments  ![logo](./img/uniOx_logo.png)
+![logo](./img/ep_logo.png) Introduction to Online Experiments  ![logo](./img/win_logo.png) ![logo](./img/uniOx_logo.png)
 --------
 
 Welcome to **Introduction to Online Experiments**, prepared by the [Brain & Cognition Lab](http://www.brainandcognition.org/). In this resource, we collate important information about online testing, and provide step-by-step guides for a successful transition to online experimentation.
@@ -57,6 +57,7 @@ You can also have a look at [our talk](https://www.osa.org/en-us/meetings/webina
 
 Melvin Kallmayer | Leila Zacharias | Amy Gillespie | Paula Kaanders | Dejan Draschkow
 
+The Wellcome Centre for Integrative Neuroimaging is supported by core funding from the Wellcome Trust (203139/Z/16/Z).
 
 **Citations**:
 
