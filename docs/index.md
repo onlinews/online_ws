@@ -71,4 +71,4 @@ Kallmayer, M., Zacharias, L., Nobre, A.C., & Draschkow, D. (2020). Introduction 
 Sauter, M., Draschkow, D., & Mack, W. (2020). Building, Hosting and Recruiting: A Brief Introduction to Running Behavioral Experiments Online. *Brain Sciences*, Vol. 10, Page 251, 10(4), 251. [https://doi.org/10.3390/BRAINSCI10040251](https://doi.org/10.3390/BRAINSCI10040251)
 
 --------
-Please *STAR* our [GitHub repository which supports this website](https://github.com/mkallmayer/online_ws/tree/master/docs).
+Please *STAR* our [GitHub repository which supports this website](https://github.com/onlinews/online_ws/tree/master/docs).
