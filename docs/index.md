@@ -9,6 +9,9 @@ Welcome to **Introduction to Online Experiments**, prepared by the [Brain & Cogn
 The content in this resource is of general relevance, but the specific examples in Chapter 1 are strongly tailored to the [University of Oxford](http://www.ox.ac.uk/), specifically the Departments of [Experimental Psychology](https://www.psy.ox.ac.uk/) and [Psychiatry](https://www.psych.ox.ac.uk/). If you are a member of these Departments, you can follow the steps essentially beat by beat (and also [find people with relevant expertise](https://unioxfordnexus.sharepoint.com/:f:/s/ClinicalNeurosciences-OHBAOnlineExperiments/En4FGfw7n-xCmPNXx1L4h_gB7iz3jwwcjRBXecBAlnTdaQ?e=vKTHW7)). If you are a visitor from a different department, university or country, you will sometimes need to find solutions which are a bit more specific to your current environment. However, the specific example cases are quite rare in our resource and usually pertain to some form of administrative task (mostly Chapter 1). Thus, the majority of the content here should be of relevance to anybody interested in embarking on the road to online experimentation.
 
 ### Various workshops/conferences/resources (that we know about)
+
+*a lot of great resources*: [https://moryscarter.com/vespr/](https://moryscarter.com/vespr/)
+
 *recording*: [https://www.osa.org/en-us/meetings/webinar/2020/august/osa_technical_group_special_webinar_display_calibr/](https://www.osa.org/en-us/meetings/webinar/2020/august/osa_technical_group_special_webinar_display_calibr/)
 
 *great video tutorials*: [https://www.youtube.com/playlist?list=PLrqzzPKPF_6aqWIsj_dw1lzPNenD4yHUj](https://www.youtube.com/playlist?list=PLrqzzPKPF_6aqWIsj_dw1lzPNenD4yHUj)
